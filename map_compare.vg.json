@@ -77,7 +77,8 @@
                             "labelFont": "Ubuntu Condensed",
                             "labelFontStyle": "san-serif",
                             "titleFont": "Ubuntu Condensed",
-                            "titleFontStyle": "san-serif"
+                            "titleFontStyle": "san-serif",
+                            "orient": "bottom"
                         },
                         "title": "Population Employed (in%)"
                     },
