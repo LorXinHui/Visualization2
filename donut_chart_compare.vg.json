@@ -1,0 +1,312 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Employment Situation of each Gender",
+    "data":{
+        "url": "https://raw.githubusercontent.com/LorXinHui/FIT3179/main/Homework%20Week%2010/data/employment_2020_with_gender_wide.csv"
+    },
+    "params": [
+        {
+            "name": "Country",
+            "bind": {
+                "input": "select",
+                "options": [
+                    "All countries",
+                    "Afghanistan",
+                    "Albania",
+                    "Algeria",
+                    "Angola",
+                    "Argentina",
+                    "Armenia",
+                    "Australia",
+                    "Austria",
+                    "Azerbaijan",
+                    "Bahamas", 
+                    "Bahrain", 
+                    "Bangladesh",
+                    "Barbados",
+                    "Belarus", 
+                    "Belgium",
+                    "Belize",
+                    "Benin", 
+                    "Bhutan",
+                    "Bolivia", 
+                    "Bosnia and Herzegovina",
+                    "Botswana", 
+                    "Brazil", 
+                    "Brunei", 
+                    "Bulgaria", 
+                    "Burkina Faso", 
+                    "Burundi", 
+                    "Cabo Verde", 
+                    "Cambodia", 
+                    "Cameroon", 
+                    "Canada", 
+                    "Central African Republic", 
+                    "Chad", 
+                    "Chile", 
+                    "China",
+                    "Hong Kong", 
+                    "Macao", 
+                    "Colombia", 
+                    "Comoros", 
+                    "Congo", 
+                    "Costa Rica", 
+                    "Côte d’Ivoire",
+                    "Croatia", 
+                    "Cuba",
+                    "Cyprus", 
+                    "Czechia", 
+                    "North Korea", 
+                    "Congo", 
+                    "Denmark",
+                    "Djibouti", 
+                    "Dominican Republic",
+                    "Ecuador", 
+                    "Egypt", 
+                    "El Salvador", 
+                    "Equatorial Guinea", 
+                    "Eritrea", 
+                    "Estonia", 
+                    "Eswatini", 
+                    "Ethiopia", 
+                    "Fiji", 
+                    "Finland", 
+                    "France", 
+                    "French Polynesia", 
+                    "Gabon", 
+                    "Gambia", 
+                    "Georgia",
+                    "Germany", 
+                    "Ghana", 
+                    "Greece", 
+                    "Guam", 
+                    "Guatemala",
+                    "Guinea",
+                    "Guinea-Bissau", 
+                    "Guyana", 
+                    "Haiti", 
+                    "Honduras", 
+                    "Hungary", 
+                    "Iceland",
+                    "India", 
+                    "Indonesia",
+                    "Iran",
+                    "Iraq",
+                    "Ireland",
+                    "Isreal",
+                    "Italy",
+                    "Jamaica",
+                    "Japan",
+                    "Jordan",
+                    "Kazakhstan",
+                    "Kenya",
+                    "Kuwait",
+                    "Krygyzstan",
+                    "Laos",
+                    "Latvia",
+                    "Lebanon",
+                    "Lesotho",
+                    "Liberia",
+                    "Libya",
+                    "Lithuania",
+                    "Luxembourg",
+                    "Madagascar",
+                    "Malawi",
+                    "Malaysia",
+                    "Maldives",
+                    "Mali",
+                    "Malta",
+                    "Mauritania",
+                    "Mauritius",
+                    "Mexico",
+                    "Mongolio",
+                    "Montenegro",
+                    "Morocco",
+                    "Mozambique",
+                    "Myanmar",
+                    "Namibia",
+                    "Nepal",
+                    "Netherlands",
+                    "New Calendonia",
+                    "New Zealand",
+                    "Nicaragua",
+                    "Niger",
+                    "Nigeria",
+                    "North Macedonia",
+                    "Norway",
+                    "Oman",
+                    "Pakistan",
+                    "Panama",
+                    "Papau New Guinea",
+                    "Paraguay",
+                    "Peru",
+                    "Philippines",
+                    "Poland",
+                    "Portugal",
+                    "Puerto Rico",
+                    "Qatar",
+                    "South Korea",
+                    "Moldova",
+                    "Romania",
+                    "Russian Federation",
+                    "Rwanda",
+                    "Saint Lucia",
+                    "Saint Vincent & Grenadiens",
+                    "Samoa",
+                    "Sao Tome and Principe",
+                    "Saudi Arabia",
+                    "Senegal",
+                    "Serbia",
+                    "Sierra",
+                    "Singapore",
+                    "Slovakia",
+                    "Solomon Islands", 
+                    "Somalia",
+                    "South Africa",
+                    "South Sudan",
+                    "Spain",
+                    "Sri Lanka",
+                    "State of Palenstine",
+                    "Sudan",
+                    "Sweden",
+                    "Switzerland",
+                    "Syrian Arab Republic",
+                    "Tajikistan",
+                    "Thailand",
+                    "Timor-Leste",
+                    "Togo",
+                    "Trinidad and Tobago",
+                    "Tunisia",
+                    "Turkey",
+                    "Turkmenistan",
+                    "Uganda",
+                    "Ukraine",
+                    "United Arab Emirates",
+                    "United Kingdom",
+                    "Tanzania",
+                    "United States of America",
+                    "United States Virgin Island",
+                    "Uruguay",
+                    "Uzbekistan",
+                    "Vanuatu",
+                    "Venezuela",
+                    "Viet Nam",
+                    "Yemen",
+                    "Zambia",
+                    "Zimbabwe"
+                ]
+            }
+        }
+    ],
+    "transform": [
+        {
+            "filter": "if(Country !=null, datum.country == Country, datum.country == 'All countries')"
+        }
+    ],
+    "repeat": ["both", "male", "female"],
+    "spec": {
+        "height": 300,
+        "width": 300,
+        "layer": [
+            {
+                "params": [
+                    {
+                        "name": "highlight",
+                        "select": {"type": "point", "on": "mouseover"}
+                    },
+                    {"name": "select", "select": "point"}
+                ],
+                "mark": {"type": "arc", "outerRadius": 120, "innerRadius": 40, "stroke": "lightgray"},
+                "encoding": {
+                    "theta": {
+                        "field": {"repeat": "repeat"}, 
+                        "type": "quantitative",
+                        "stack": true
+                    },
+                    "color": {
+                        "field": "category", 
+                        "type": "nominal",
+                        "scale": {"scheme": "yellowgreen"},
+                        "title": null,
+                        "legend":{
+                            "labelFont": "Ubuntu Condensed",
+                            "labelFontStyle": "san-serif",
+                            "orient": "bottom"
+                        }
+                    },
+                    "tooltip": [
+                        {"field": "category", "type": "nominal", "title": "Economic Activity"},
+                        {"field": {"repeat": "repeat"}, "type": "quantitative", "title": "Population employed (in%)"}
+                    ],
+                    "fillOpacity": {
+                        "condition": {"param": "select", "value": 1},
+                        "value": 0.3
+                    },
+                    "strokeWidth": {
+                        "condition": [
+                          {
+                            "param": "select",
+                            "empty": false,
+                            "value": 3
+                          },
+                          {
+                            "param": "highlight",
+                            "empty": false,
+                            "value": 2
+                          }
+                        ],
+                        "value": 0
+                    }
+                }
+            },
+            {
+                "mark": {
+                    "type": "text", 
+                    "radius": 140
+                },
+                "encoding": {
+                    "text": {"field": {"repeat": "repeat"}, "type": "quantitative"},
+                    "theta": {
+                        "field": {"repeat": "repeat"}, 
+                        "type": "quantitative",
+                        "stack": true
+                    },
+                    "color": {
+                        "field": "category", 
+                        "type": "nominal",
+                        "scale": {"scheme": "yellowgreen"},
+                        "title": "Economic Activity"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "values": [
+                        {
+                            "both": "Both",
+                            "female": "Female",
+                            "male": "Male"
+                        }
+                    ]
+                },
+                "mark": {
+                    "type": "text",
+                    "align": "left",
+                    "baseline": "bottom",
+                    "font": "Ubuntu Condensed",
+                    "fontStyle": "san-serif",
+                    "fontSize": 30,
+                    "x": 0,
+                    "y": 0
+                },
+                "encoding": {
+                    "text": {"field": {"repeat": "repeat"}}
+                }
+            }
+        ]
+    },
+    "config": {
+        "background": null,
+        "view": {"stroke": "transparent"}
+    } 
+}

@@ -1,0 +1,96 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+        "url": "https://raw.githubusercontent.com/LorXinHui/FIT3179/main/Homework%20Week%2010/data/employment_2020_by_activities.csv"
+    },
+    "height": 300,
+    "width": 300,
+    "transform": [
+        {
+            "filter": {"field": "country", "oneOf": ["Qatar", "Turkmenistan", "Lesotho", "Czechia", "Slovakia", "Bahrain", "United Arab Emirates", "Burkina Faso", "Slovenia", "Hungary"]}
+        }
+    ],
+    "encoding": {
+        "y": {
+            "field": "country", 
+            "type": "nominal",
+            "title": null,
+            "axis": {
+                "titleFont": "Inter Tight",
+                "titleFontStyle": "san-serif"
+            }
+        },
+        "x": {
+            "field": "industry", 
+            "type": "quantitative", 
+            "scale": {"domain": [0, 100]},
+            "title": "Population employed (in %)",
+            "axis": {
+                "titleFont": "Inter Tight",
+                "titleFontStyle": "san-serif"
+            }
+        },
+        "tooltip": [
+            {"field": "country", "type": "nominal", "title": "Country"},
+            {"field": "industry", "type": "quantitative", "title": "Population employed (in %)"}
+        ]
+    },
+    "layer": [
+        {
+            "params": [
+                {
+                    "name": "highlight",
+                    "select": {"type": "point", "on": "mouseover"}
+                },
+                {"name": "select", "select": "point"}
+            ],
+            "mark": {
+                "type": "bar",
+                "stroke": "#909090",
+                "cursor": "pointer"
+            },
+            "encoding": {
+                "color": {
+                    "field": "industry",
+                    "type": "quantitative",
+                    "scale": {"scheme": "yellowgreen", "domain":[30, 60]},
+                    "legend": null
+                },
+                "fillOpacity": {
+                    "condition": {"param": "select", "value": 1},
+                    "value": 0.3
+                },
+                "strokeWidth": {
+                    "condition": [
+                      {
+                        "param": "select",
+                        "empty": false,
+                        "value": 3
+                      },
+                      {
+                        "param": "highlight",
+                        "empty": false,
+                        "value": 2
+                      }
+                    ],
+                    "value": 0
+                }
+            }
+        },
+        {
+            "mark": {
+                "type": "text",
+                "align": "left",
+                "baseline": "middle",
+                "dx": 3
+            },
+            "encoding": {
+                "text": {"field": "industry", "type": "quantitative"}
+            }
+        }
+    ],
+    "config": {
+        "background": null,
+        "view": {"stroke": null}
+    }
+}

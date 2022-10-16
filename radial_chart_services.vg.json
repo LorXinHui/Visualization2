@@ -1,0 +1,80 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Employment of each Region",
+    "data": {
+        "url": "https://raw.githubusercontent.com/LorXinHui/FIT3179/main/Homework%20Week%2010/data/employmeny_by_region_wide.csv"
+    },
+    "width": 400,
+    "height": 400,
+    "layer": [
+        {
+            "params": [
+                {
+                    "name": "highlight",
+                    "select": {"type": "point", "on": "mouseover"}
+                },
+                {"name": "select", "select": "point"}
+            ],
+            "mark": {
+                "type": "arc",
+                "innerRadius": 20,
+                "stroke": "lightgray"
+            }
+        },
+        {
+            "transform": [
+                {"filter": "datum.services > 10"}
+            ],
+            "mark": {
+                "type": "text",
+                "radiusOffset": 10
+            },
+            "encoding": {
+                "text": {"field": "services", "type": "quantitative"}
+            }
+        }
+    ],
+    "encoding": {
+        "theta": {"field": "services", "type": "quantitative", "stack": true},
+        "radius": {"field": "services", "scale": {"type": "sqrt", "zero": true, "rangeMin": 20}},
+        "color": {
+            "field": "region", 
+            "type": "nominal",
+            "scale": {"scheme": "yellowgreen"},
+            "title": "Region",
+            "legend":{
+                "labelFont": "Ubuntu Condensed",
+                "labelFontStyle": "san-serif",
+                "titleFont": "Ubuntu Condensed",
+                "titleFontStyle": "san-serif"
+            }
+        },
+        "fillOpacity": {
+            "condition": {"param": "select", "value": 1},
+            "value": 0.3
+        },
+        "strokeWidth": {
+            "condition": [
+              {
+                "param": "select",
+                "empty": false,
+                "value": 3
+              },
+              {
+                "param": "highlight",
+                "empty": false,
+                "value": 2
+              }
+            ],
+            "value": 0
+        },
+        "tooltip": [
+            {"field": "region", "type": "nominal", "title": "Region"},
+            {"field": "services", "type": "quantitative", "title": "Population employed (in%)"}
+        ]
+    },
+    "config": {
+        "background": null,
+        "view": {"stroke": null}
+    }
+}

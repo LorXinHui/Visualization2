@@ -1,0 +1,149 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Trend of Population Employed in each Economic Activity (in %)",
+    "data":{
+        "url": "https://raw.githubusercontent.com/LorXinHui/FIT3179/main/Homework%20Week%2010/data/employment_by_year_wide.csv"
+    },
+    "repeat": ["both", "male", "female"],
+    "spec": {
+        "width": 300,
+        "height": 200,
+        "layer": [
+            {
+                "params": [
+                    {"name": "highlight", "select": "point"}
+                ],
+                "mark": {
+                    "type": "line", 
+                    "point": true
+                },
+                "encoding": {
+                    "x": {
+                        "timeUnit": "year", "field": "year", 
+                        "title": "Year",
+                        "scale": {"domain": [2005, 2020]},
+                        "axis": {"format": "%Y"}
+                    },
+                    "y": {
+                        "field": {"repeat": "repeat"}, 
+                        "type": "quantitative",
+                        "scale": {"domain": [0, 60]},
+                        "title": "Population employed (in %)"
+                    },
+                    "color": {
+                        "field": "category", 
+                        "type": "nominal",
+                        "scale": {"scheme": "yellowgreen"},
+                        "title": "Economic Activity",
+                        "legend":{
+                            "labelFont": "Ubuntu Condensed",
+                            "labelFontStyle": "san-serif",
+                            "orient": "bottom"
+                        }
+                    },
+                    "fillOpacity": {
+                        "condition": {"param": "highlight", "value": 1},
+                        "value": 0.3
+                    },
+                    "tooltip": [
+                        {"field": "year", "timeUnit": "year", "title": "Year"},
+                        {"field": "category", "type": "nominal", "title": "Economic Activity"},
+                        {"field": {"repeat": "repeat"}, "type": "quantitative", "title": "Population employed (in%)"}
+                    ]
+                }
+            },
+            {
+                "mark": {
+                    "type": "rule",
+                    "strokeDash": [2, 2],
+                    "size": 1
+                },
+                "encoding": {
+                    "x": {"datum": {"year" : 2019}},
+                    "color": {"value": "gray"}
+                }
+            },
+            {
+                "mark": {
+                    "type": "text",
+                    "align": "right",
+                    "font": "Inter Tight",
+                    "fontStyle": "san-serif",
+                    "fontWeight": 100,
+                    "fontSize": 10, 
+                    "dx": -3
+                },
+                "encoding": {
+                    "text": {"value": "Covid-19"},
+                    "x": {"datum": {"year": 2019}},
+                    "y": {"value": 130},
+                    "color": {"value": "gray"}
+                }
+            },
+            {
+                "mark": {
+                    "type": "rule",
+                    "strokeDash": [2, 2],
+                    "size": 1
+                },
+                "encoding": {
+                    "x": {"datum": {"year" : 2007}},
+                    "color": {"value": "gray"}
+                }
+            },
+            {
+                "mark": {
+                    "type": "text",
+                    "align": "left",
+                    "font": "Inter Tight",
+                    "fontStyle": "san-serif",
+                    "fontWeight": 100,
+                    "fontSize": 10, 
+                    "dx": 3
+                },
+                "encoding": {
+                    "text": {"value": "Great Recession"},
+                    "x": {"datum": {"year": 2007}},
+                    "y": {"value": 80},
+                    "color": {"value": "gray"}
+                }
+            },
+            {
+                "data": {
+                    "values": [
+                        {
+                            "both": "Both",
+                            "female": "Female",
+                            "male": "Male"
+                        }
+                    ]
+                },
+                "mark": {
+                    "type": "text",
+                    "align": "left",
+                    "baseline": "bottom",
+                    "font": "Ubuntu Condensed",
+                    "fontStyle": "san-serif",
+                    "fontSize": 30,
+                    "x": 0,
+                    "y": 0
+                },
+                "encoding": {
+                    "text": {"field": {"repeat": "repeat"}}
+                }
+            }
+        ] 
+    },
+    "config": {
+        "view": {"stroke": null},
+        "axis": {
+            "grid": true,
+            "gridColor": "#dedede",
+            "labelColor": "gray",
+            "titleColor": "gray",
+            "titleFont": "Inter Tight",
+            "titleFontStyle": "san-serif"
+        },
+        "background": null
+    } 
+}
