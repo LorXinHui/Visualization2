@@ -16,9 +16,13 @@
         "height": 300,
         "width": 300,
         "title": {
-            "text": "Female",
-            "font": "Ubuntu Condensed",
-            "fontStyle": "san-serif"
+            "text": "MALE",
+            "align": "center",
+            "baseline": "bottom",
+            "font": "'Ubuntu Condensed', sans-serif",
+            "fontWeight": "bold",
+            "fontSize": 13,
+            "color": "#636363"
         },
         "encoding": {
             "y": {
@@ -32,10 +36,11 @@
                 "title": "Population Employed (in %)",
                 "axis": {
                     "format": "s",
-                    "titleFont": "Inter Tight",
-                    "titleFontStyle": "san-serif"
+                    "titleFont": "'Inter Tight', sans-serif",
+                    "titleColor": "#636363"
                 },
-                "scale": {"domain": [100, 0]}
+                "scale": {"domain": [0, 100]},
+                "sort": "descending"
             },
             "tooltip": [
                 {"field": "gender", "type": "nominal", "title": "Gender"},
@@ -87,6 +92,15 @@
             },
             {
                 "mark": {
+                    "type": "bar",
+                    "stroke": "#909090",
+                    "cursor": "pointer",
+                    "color": "#1184c2"
+                },
+                "transform": [{"filter": "datum.country == 'Burundi'"}]
+            },
+            {
+                "mark": {
                     "type": "text",
                     "align": "right",
                     "baseline": "middle",
@@ -108,9 +122,9 @@
         "mark": {
             "type": "text",
             "align": "center",
-            "font": "Inter Tight",
-            "fontStyle": "san-serif",
-            "fontSize": 20
+            "font": "'Inter Tight', sans-serif",
+            "fontSize": 13,
+            "color": "#636363"
         },
         "encoding": {
             "y": {"field": "country", "type": "ordinal", "axis": null},
@@ -124,9 +138,13 @@
         "height": 300,
         "width": 300,
         "title": {
-            "text": "Male",
-            "font": "Ubuntu Condensed",
-            "fontStyle": "san-serif"
+            "text": "MALE",
+            "align": "center",
+            "baseline": "bottom",
+            "font": "'Ubuntu Condensed', sans-serif",
+            "fontWeight": "bold",
+            "fontSize": 13,
+            "color": "#636363"
         },
         "encoding": {
             "y": {
@@ -140,8 +158,8 @@
                 "title": "Population Employed (in %)",
                 "axis": {
                     "format": "s",
-                    "titleFont": "Inter Tight",
-                    "titleFontStyle": "san-serif"
+                    "titleFont": "'Inter Tight', sans-serif",
+                    "titleColor": "#636363"
                 },
                 "scale": {"domain": [0, 100]}
             },
@@ -192,6 +210,15 @@
                         "value": 0
                     }
                 }
+            },
+            {
+                "mark": {
+                    "type": "bar",
+                    "stroke": "#909090",
+                    "cursor": "pointer",
+                    "color": "#1184c2"
+                },
+                "transform": [{"filter": "datum.country == 'Burundi'"}]
             },
             {
                 "mark": {

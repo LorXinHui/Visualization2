@@ -67,10 +67,9 @@
                     "scale": {"scheme": "yellowgreen", "domain": [0, 100]},
                     "title": "Population(in %)",
                     "legend":{
-                        "labelFont": "Ubuntu Condensed",
-                        "labelFontStyle": "san-serif",
-                        "titleFont": "Ubuntu Condensed",
-                        "titleFontStyle": "san-serif"
+                        "labelFont": "'Ubuntu Condensed', sans-serif",
+                        "titleFont": "'Ubuntu Condensed', sans-serif",
+                        "titleFontWeight":"bold"
                     }
                 },
                 "fillOpacity": {
@@ -96,6 +95,41 @@
                     {"field": "properties.NAME", "type": "nominal", "title": "Country"},
                     {"field": "industry", "type": "quantitative", "title": "Population Employed (in %)"}
                 ]
+            }
+        },
+        {
+            "data": {
+                "url": "https://raw.githubusercontent.com/LorXinHui/FIT3179/main/ne_110m.json",
+                "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+            },
+            "transform": [
+                {
+                    "lookup": "properties.NAME",
+                    "from": {
+                        "data": {
+                            "url": "https://raw.githubusercontent.com/LorXinHui/FIT3179/main/Homework%20Week%2010/data/employment_2020_by_activities.csv"
+                        },
+                        "key": "country",
+                        "fields": ["industry"]
+                    }
+                },
+                {
+                    "filter": {"field": "properties.NAME", "oneOf": ["Qatar", "Turkmenistan", "Lesotho", "Czechia", "United Arab Emirates", "Burkina Faso", "Hungary"]}
+                }
+            ],
+            "mark": {
+                "type": "text",
+                "font": "'Ubuntu Condensed', sans-serif"
+            },
+            "encoding": {
+                "text": {"field": "properties.NAME", "type": "nominal"},
+                "longitude": {"field": "properties.LABEL_X", "type": "quantitative"},
+                "latitude": {"field": "properties.LABEL_Y", "type": "quantitative"},
+                "size": {"value": 10},
+                "fillOpacity": {
+                    "condition": {"param": "select", "value": 0.7},
+                    "value": 0.3
+                }
             }
         }
     ],

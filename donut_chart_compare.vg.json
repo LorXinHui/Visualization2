@@ -229,8 +229,7 @@
                         "scale": {"scheme": "yellowgreen"},
                         "title": null,
                         "legend":{
-                            "labelFont": "Ubuntu Condensed",
-                            "labelFontStyle": "san-serif",
+                            "labelFont": "'Ubuntu Condensed', sans-serif",
                             "orient": "bottom"
                         }
                     },
@@ -262,10 +261,15 @@
             {
                 "mark": {
                     "type": "text", 
-                    "radius": 140
+                    "radius": 140,
+                    "font": "'Ubuntu Condensed', sans-serif",
+                    "fontSize": 13
                 },
                 "encoding": {
-                    "text": {"field": {"repeat": "repeat"}, "type": "quantitative"},
+                    "text": {
+                        "field": {"repeat": "repeat"}, 
+                        "type": "quantitative"
+                    },
                     "theta": {
                         "field": {"repeat": "repeat"}, 
                         "type": "quantitative",
@@ -276,6 +280,10 @@
                         "type": "nominal",
                         "scale": {"scheme": "yellowgreen"},
                         "title": "Economic Activity"
+                    },
+                    "fillOpacity": {
+                        "condition": {"param": "select", "value": 1},
+                        "value": 0.3
                     }
                 }
             },
@@ -283,24 +291,25 @@
                 "data": {
                     "values": [
                         {
-                            "both": "Both",
-                            "female": "Female",
-                            "male": "Male"
+                            "both": "BOTH",
+                            "female": "FEMALE",
+                            "male": "MALE"
                         }
                     ]
                 },
                 "mark": {
                     "type": "text",
-                    "align": "left",
+                    "align": "center",
                     "baseline": "bottom",
-                    "font": "Ubuntu Condensed",
-                    "fontStyle": "san-serif",
-                    "fontSize": 30,
-                    "x": 0,
-                    "y": 0
+                    "font": "'Ubuntu Condensed', sans-serif",
+                    "fontWeight": "bold",
+                    "fontSize": 15,
+                    "x": 150,
+                    "y": 157
                 },
                 "encoding": {
-                    "text": {"field": {"repeat": "repeat"}}
+                    "text": {"field": {"repeat": "repeat"}},
+                    "color": {"value": "#636363"}
                 }
             }
         ]

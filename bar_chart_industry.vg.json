@@ -16,8 +16,8 @@
             "type": "nominal",
             "title": null,
             "axis": {
-                "titleFont": "Inter Tight",
-                "titleFontStyle": "san-serif"
+                "titleFont": "'Inter Tight', sans-serif",
+                "titleColor": "#636363"
             }
         },
         "x": {
@@ -26,8 +26,8 @@
             "scale": {"domain": [0, 100]},
             "title": "Population employed (in %)",
             "axis": {
-                "titleFont": "Inter Tight",
-                "titleFontStyle": "san-serif"
+                "titleFont": "'Inter Tight', sans-serif",
+                "titleColor": "#636363"
             }
         },
         "tooltip": [
@@ -56,6 +56,36 @@
                     "scale": {"scheme": "yellowgreen", "domain":[30, 60]},
                     "legend": null
                 },
+                "fillOpacity": {
+                    "condition": {"param": "select", "value": 1},
+                    "value": 0.3
+                },
+                "strokeWidth": {
+                    "condition": [
+                      {
+                        "param": "select",
+                        "empty": false,
+                        "value": 3
+                      },
+                      {
+                        "param": "highlight",
+                        "empty": false,
+                        "value": 2
+                      }
+                    ],
+                    "value": 0
+                }
+            }
+        },
+        {
+            "mark": {
+                "type": "bar",
+                "stroke": "#909090",
+                "cursor": "pointer",
+                "color": "#1184c2"
+            },
+            "transform": [{"filter": "datum.country == 'Qatar'"}],
+            "encoding": {
                 "fillOpacity": {
                     "condition": {"param": "select", "value": 1},
                     "value": 0.3

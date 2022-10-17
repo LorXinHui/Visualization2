@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Employment of each Region",
+    "description": "Employment of each Region",
     "data": {
         "url": "https://raw.githubusercontent.com/LorXinHui/FIT3179/main/Homework%20Week%2010/data/employmeny_by_region_wide.csv"
     },

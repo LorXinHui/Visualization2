@@ -34,10 +34,9 @@
                         "field": "category", 
                         "type": "nominal",
                         "scale": {"scheme": "yellowgreen"},
-                        "title": "Economic Activity",
+                        "title": null,
                         "legend":{
-                            "labelFont": "Ubuntu Condensed",
-                            "labelFontStyle": "san-serif",
+                            "labelFont": "'Ubuntu Condensed', sans-serif",
                             "orient": "bottom"
                         }
                     },
@@ -66,15 +65,16 @@
             {
                 "mark": {
                     "type": "text",
-                    "align": "right",
-                    "font": "Inter Tight",
-                    "fontStyle": "san-serif",
-                    "fontWeight": 100,
-                    "fontSize": 10, 
-                    "dx": -3
+                    "align": "left",
+                    "font": "'Ubuntu Condensed', sans-serif", 
+                    "fontStyle": "italic",
+                    "fontSize": 13,
+                    "dy": 10,
+                    "dx": -70,
+                    "angle": 90
                 },
                 "encoding": {
-                    "text": {"value": "Covid-19"},
+                    "text": {"value": "2019:Covid-19"},
                     "x": {"datum": {"year": 2019}},
                     "y": {"value": 130},
                     "color": {"value": "gray"}
@@ -95,14 +95,15 @@
                 "mark": {
                     "type": "text",
                     "align": "left",
-                    "font": "Inter Tight",
-                    "fontStyle": "san-serif",
-                    "fontWeight": 100,
-                    "fontSize": 10, 
-                    "dx": 3
+                    "font": "'Ubuntu Condensed', sans-serif", 
+                    "fontStyle": "italic",
+                    "fontSize": 13,
+                    "dy": 10,
+                    "dx": -33,
+                    "angle": 90
                 },
                 "encoding": {
-                    "text": {"value": "Great Recession"},
+                    "text": {"value": "2007:Great Recession"},
                     "x": {"datum": {"year": 2007}},
                     "y": {"value": 80},
                     "color": {"value": "gray"}
@@ -112,20 +113,19 @@
                 "data": {
                     "values": [
                         {
-                            "both": "Both",
-                            "female": "Female",
-                            "male": "Male"
+                            "both": "BOTH",
+                            "female": "FEMALE",
+                            "male": "MALE"
                         }
                     ]
                 },
                 "mark": {
                     "type": "text",
-                    "align": "left",
+                    "align": "center",
                     "baseline": "bottom",
-                    "font": "Ubuntu Condensed",
-                    "fontStyle": "san-serif",
-                    "fontSize": 30,
-                    "x": 0,
+                    "font": "'Ubuntu Condensed', sans-serif",
+                    "fontSize": 15,
+                    "x": 150,
                     "y": 0
                 },
                 "encoding": {

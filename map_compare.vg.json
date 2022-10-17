@@ -113,26 +113,61 @@
             },
             {
                 "data": {
+                    "url": "https://raw.githubusercontent.com/LorXinHui/FIT3179/main/ne_110m.json",
+                    "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+                },
+                "transform": [
+                    {
+                        "lookup": "properties.NAME",
+                        "from": {
+                            "data": {
+                                "url": "https://raw.githubusercontent.com/LorXinHui/FIT3179/main/Homework%20Week%2010/data/employment_2020_by_activities.csv"
+                            },
+                            "key": "country"
+                        }
+                    },
+                    {
+                        "filter": {"field": "properties.NAME", "oneOf": ["United States of America", "China", "United Kingdom", "France", "Russia", "Japan", "United Arab Emirates"]}
+                    }
+                ],
+                "mark": {
+                    "type": "text",
+                    "font": "'Ubuntu Condensed', sans-serif"
+                },
+                "encoding": {
+                    "text": {"field": "properties.NAME", "type": "nominal"},
+                    "longitude": {"field": "properties.LABEL_X", "type": "quantitative"},
+                    "latitude": {"field": "properties.LABEL_Y", "type": "quantitative"},
+                    "size": {"value": 10},
+                    "fillOpacity": {
+                        "condition": {"param": "select", "value": 0.7},
+                        "value": 0.3
+                    }
+                }
+            },
+            {
+                "data": {
                     "values": [
                         {
-                            "agriculture": "Agriculture",
-                            "industry": "Industry",
-                            "services": "Services"
+                            "agriculture": "AGRICULTURE",
+                            "industry": "INDUSTRY",
+                            "services": "SERVICES"
                         }
                     ]
                 },
                 "mark": {
                     "type": "text",
-                    "align": "left",
+                    "align": "center",
                     "baseline": "bottom",
-                    "font": "Ubuntu Condensed",
-                    "fontStyle": "san-serif",
-                    "fontSize": 30,
-                    "x": 0,
+                    "font": "'Ubuntu Condensed', sans-serif",
+                    "fontSize": 15,
+                    "fontWeight": "bold",
+                    "x": 300,
                     "y": 0
                 },
                 "encoding": {
-                    "text": {"field": {"repeat": "repeat"}}
+                    "text": {"field": {"repeat": "repeat"}},
+                    "color": {"value": "#636363"}
                 }
             }
         ]
