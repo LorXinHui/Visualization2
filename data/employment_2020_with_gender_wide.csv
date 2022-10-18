@@ -1,0 +1,565 @@
+﻿country,category,both,female,male
+All countries,Agriculture,26.5,25.4,27.2
+All countries,Industry,23.1,16,27.6
+All countries,Services,50.4,58.6,45.2
+Afghanistan,Agriculture,42.4,64.8,36.4
+Afghanistan,Industry,18.3,24.8,16.5
+Afghanistan,Services,39.4,10.3,47.1
+Albania,Agriculture,36.1,40,33.3
+Albania,Industry,20.2,16.2,23.2
+Albania,Services,43.7,43.8,43.6
+Algeria,Agriculture,9.7,3.5,10.9
+Algeria,Industry,30.7,23.3,32
+Algeria,Services,59.6,73.2,57.1
+Angola,Agriculture,50.2,56,44.2
+Angola,Industry,8.1,1.1,15.2
+Angola,Services,41.7,42.9,40.6
+Argentina,Agriculture,0.1,0,0.1
+Argentina,Industry,21,8.6,30.2
+Argentina,Services,78.9,91.3,69.7
+Armenia,Agriculture,28.9,31.9,26.3
+Armenia,Industry,17.5,9.2,24.5
+Armenia,Services,53.6,58.9,49.1
+Australia,Agriculture,2.5,1.6,3.3
+Australia,Industry,19.8,8,30
+Australia,Services,77.7,90.4,66.7
+Austria,Agriculture,3.5,3.1,3.9
+Austria,Industry,25,11.6,36.7
+Austria,Services,71.5,85.4,59.4
+Azerbaijan,Agriculture,35.5,40.9,30.4
+Azerbaijan,Industry,15,6.1,23.2
+Azerbaijan,Services,49.5,52.9,46.3
+Bahamas,Agriculture,2.1,0.3,3.7
+Bahamas,Industry,14,2.9,23.9
+Bahamas,Services,83.9,96.8,72.4
+Bahrain,Agriculture,1,0,1.2
+Bahrain,Industry,35.1,8.6,41.4
+Bahrain,Services,64,91.4,57.4
+Bangladesh,Agriculture,37.7,56.5,29.7
+Bangladesh,Industry,21.6,18.3,23.1
+Bangladesh,Services,40.6,25.2,47.2
+Barbados,Agriculture,2.6,1.5,3.6
+Barbados,Industry,18.9,9,28.5
+Barbados,Services,78.5,89.5,67.9
+Belarus,Agriculture,10.8,7.1,14.3
+Belarus,Industry,30.2,18.5,41.8
+Belarus,Services,59,74.3,43.9
+Belgium,Agriculture,0.9,0.6,1.2
+Belgium,Industry,20.6,8.3,31.3
+Belgium,Services,78.4,91.1,67.4
+Belize,Agriculture,16.6,4.6,23.8
+Belize,Industry,15.7,9.3,19.6
+Belize,Services,67.7,86,56.6
+Benin,Agriculture,38,29.6,46.1
+Benin,Industry,19.1,16.5,21.6
+Benin,Services,42.9,53.9,32.3
+Bhutan,Agriculture,54.6,62.9,49
+Bhutan,Industry,11.1,10.4,11.5
+Bhutan,Services,34.3,26.6,39.5
+Bolivia,Agriculture,30.4,30.2,30.5
+Bolivia,Industry,19.4,10.1,26.6
+Bolivia,Services,50.3,59.7,42.9
+Bosnia and Herzegovina,Agriculture,15.1,15.1,15.1
+Bosnia and Herzegovina,Industry,32.3,17.9,41.1
+Bosnia and Herzegovina,Services,52.6,67,43.9
+Botswana,Agriculture,20.4,16,24.3
+Botswana,Industry,18.1,9.4,25.7
+Botswana,Services,61.5,74.6,50
+Brazil,Agriculture,9.1,4,12.9
+Brazil,Industry,19.6,10.3,26.5
+Brazil,Services,71.3,85.7,60.7
+Brunei,Agriculture,1.3,0.5,2
+Brunei,Industry,15.8,8.9,20.9
+Brunei,Services,82.8,90.6,77.1
+Bulgaria,Agriculture,6.3,4,8.2
+Bulgaria,Industry,30.1,22.1,37
+Bulgaria,Services,63.7,73.9,54.8
+Burkina Faso,Agriculture,24.7,16.6,30.7
+Burkina Faso,Industry,33.9,33.8,34.1
+Burkina Faso,Services,41.4,49.6,35.2
+Burundi,Agriculture,92,96,87.8
+Burundi,Industry,1.4,0.4,2.6
+Burundi,Services,6.5,3.7,9.7
+Cabo Verde,Agriculture,11.1,6.1,15.2
+Cabo Verde,Industry,22.1,11,31
+Cabo Verde,Services,66.8,82.9,53.8
+Cambodia,Agriculture,31.2,33.2,29.2
+Cambodia,Industry,29.6,27.8,31.3
+Cambodia,Services,39.2,38.9,39.5
+Cameroon,Agriculture,42.9,47.2,39
+Cameroon,Industry,15.1,11.3,18.3
+Cameroon,Services,42.1,41.4,42.6
+Canada,Agriculture,1.4,0.9,1.9
+Canada,Industry,19.4,8.3,29.4
+Canada,Services,79.2,90.8,68.7
+Central African Republic,Agriculture,77.1,81,73.8
+Central African Republic,Industry,5.4,2.7,7.7
+Central African Republic,Services,17.5,16.3,18.5
+Chad,Agriculture,76.3,74.5,77.8
+Chad,Industry,2.1,0.6,3.4
+Chad,Services,21.6,25,18.8
+Channel Islands,Agriculture,3.5,2,4.7
+Channel Islands,Industry,22.9,10.2,33
+Channel Islands,Services,73.6,87.8,62.3
+Chile,Agriculture,8.8,4.8,11.7
+Chile,Industry,22,9.9,30.8
+Chile,Services,69.2,85.3,57.5
+China,Agriculture,24.7,22.1,26.8
+China,Industry,28.2,25.1,30.6
+China,Services,47.1,52.8,42.6
+Hong Kong ,Agriculture,0.2,0.1,0.2
+Hong Kong ,Industry,11.5,3.9,19.1
+Hong Kong ,Services,88.3,96,80.7
+Macao,Agriculture,0.4,0.1,0.6
+Macao,Industry,9.5,2.5,16.1
+Macao,Services,90.1,97.4,83.3
+Colombia,Agriculture,16.5,7.6,22.7
+Colombia,Industry,20,14.6,23.8
+Colombia,Services,63.5,77.7,53.4
+Comoros,Agriculture,49.9,55.2,46.1
+Comoros,Industry,13,9.7,15.5
+Comoros,Services,37,35.1,38.4
+Congo,Agriculture,33.8,33.1,34.4
+Congo,Industry,21.7,21,22.5
+Congo,Services,44.5,45.9,43.1
+Costa Rica,Agriculture,11.9,4.1,16.6
+Costa Rica,Industry,19.8,10.8,25.2
+Costa Rica,Services,68.3,85,58.2
+Côte d’Ivoire,Agriculture,39.3,30.3,45.7
+Côte d’Ivoire,Industry,13.4,10.8,15.4
+Côte d’Ivoire,Services,47.3,59,38.9
+Croatia,Agriculture,5.8,4.5,6.8
+Croatia,Industry,27.5,14.9,38.2
+Croatia,Services,66.8,80.7,55
+Cuba,Agriculture,17.3,7.2,23.6
+Cuba,Industry,16.8,10.1,21
+Cuba,Services,65.9,82.7,55.4
+Cyprus,Agriculture,2,0.9,2.9
+Cyprus,Industry,16.3,6.1,24.8
+Cyprus,Services,81.7,93,72.3
+Czechia,Agriculture,2.6,1.6,3.5
+Czechia,Industry,37.1,23.4,48.2
+Czechia,Services,60.2,74.9,48.4
+North Korea,Agriculture,51.1,59.4,43.6
+North Korea,Industry,13.2,6.8,19.1
+North Korea,Services,35.7,33.8,37.3
+Congo,Agriculture,65.1,72.2,58.4
+Congo,Industry,9.8,3.5,15.8
+Congo,Services,25.1,24.3,25.9
+Denmark,Agriculture,2.1,0.9,3.2
+Denmark,Industry,18.3,8.4,27.1
+Denmark,Services,79.6,90.7,69.7
+Djibouti,Agriculture,32.4,30.2,33.8
+Djibouti,Industry,13.3,7.6,17
+Djibouti,Services,54.3,62.2,49.2
+Dominican Republic,Agriculture,8.8,1.3,13.7
+Dominican Republic,Industry,19.9,9.3,26.8
+Dominican Republic,Services,71.3,89.4,59.5
+Ecuador,Agriculture,29.4,26.5,31.4
+Ecuador,Industry,18.2,10.6,23.3
+Ecuador,Services,52.5,62.9,45.4
+Egypt,Agriculture,23.3,34.9,20.3
+Egypt,Industry,28.2,7.2,33.7
+Egypt,Services,48.6,58,46.1
+El Salvador,Agriculture,16,3.3,25.3
+El Salvador,Industry,22.1,17.2,25.6
+El Salvador,Services,62,79.5,49
+Equatorial Guinea,Agriculture,42.5,42.6,42.5
+Equatorial Guinea,Industry,18.5,10.2,23.4
+Equatorial Guinea,Services,38.9,47.2,34.2
+Eritrea,Agriculture,60.8,65.4,56.8
+Eritrea,Industry,8.5,4.5,11.8
+Eritrea,Services,30.7,30,31.3
+Estonia,Agriculture,3.1,1.5,4.5
+Estonia,Industry,29.4,16.8,41
+Estonia,Services,67.6,81.7,54.5
+Eswatini,Agriculture,12.3,10.2,14.1
+Eswatini,Industry,23.5,22.2,24.7
+Eswatini,Services,64.2,67.6,61.2
+Ethiopia,Agriculture,65.6,57.4,72.6
+Ethiopia,Industry,10.4,9.8,10.8
+Ethiopia,Services,24,32.7,16.5
+Fiji,Agriculture,35.7,33.9,36.6
+Fiji,Industry,13.3,8.4,15.7
+Fiji,Services,51,57.7,47.7
+Finland,Agriculture,3.5,1.9,5
+Finland,Industry,22,8.7,34.4
+Finland,Services,74.5,89.4,60.6
+France,Agriculture,2.4,1.3,3.4
+France,Industry,19.9,9.3,29.7
+France,Services,77.7,89.3,66.9
+French Polynesia,Agriculture,6.8,3.7,9.1
+French Polynesia,Industry,14.6,4.9,21.9
+French Polynesia,Services,78.6,91.4,69
+Gabon,Agriculture,32.4,47.3,24
+Gabon,Industry,10.8,2.8,15.2
+Gabon,Services,56.9,49.9,60.8
+Gambia,Agriculture,26.6,32.1,22.5
+Gambia,Industry,15.8,4,24.5
+Gambia,Services,57.7,63.9,53.1
+Georgia,Agriculture,41.3,43.7,39.3
+Georgia,Industry,14.2,5.8,21.3
+Georgia,Services,44.5,50.5,39.4
+Germany,Agriculture,1.2,0.8,1.5
+Germany,Industry,26.8,13.5,38.3
+Germany,Services,72.1,85.7,60.2
+Ghana,Agriculture,28.5,21.3,34.7
+Ghana,Industry,22.2,24.1,20.6
+Ghana,Services,49.4,54.7,44.7
+Greece,Agriculture,11.7,11,12.2
+Greece,Industry,15.2,7.6,20.5
+Greece,Services,73.1,81.4,67.3
+Guam,Agriculture,0.2,0.1,0.3
+Guam,Industry,14.3,3.5,21.6
+Guam,Services,85.5,96.5,78
+Guatemala,Agriculture,31.3,9.7,41.8
+Guatemala,Industry,18.4,16.5,19.4
+Guatemala,Services,50.3,73.8,38.9
+Guinea,Agriculture,61.3,62.6,59.6
+Guinea,Industry,6.2,2.1,11.2
+Guinea,Services,32.5,35.3,29.2
+Guinea-Bissau,Agriculture,67.8,70.2,65.6
+Guinea-Bissau,Industry,7,4.2,9.6
+Guinea-Bissau,Services,25.2,25.6,24.8
+Guyana,Agriculture,16.8,8.8,21.7
+Guyana,Industry,22.9,8.1,31.9
+Guyana,Services,60.3,83.2,46.4
+Haiti,Agriculture,28.3,12.7,41.5
+Haiti,Industry,6.6,1.9,10.7
+Haiti,Services,65,85.5,47.8
+Honduras,Agriculture,30.1,9.8,42.4
+Honduras,Industry,19.7,17.4,21.1
+Honduras,Services,50.2,72.8,36.6
+Hungary,Agriculture,4.6,2.5,6.3
+Hungary,Industry,32.8,20,43.5
+Hungary,Services,62.6,77.5,50.2
+Iceland,Agriculture,3.8,1.3,6.1
+Iceland,Industry,16.1,6.8,24.4
+Iceland,Services,80.1,91.9,69.5
+India,Agriculture,41.5,53.6,38.5
+India,Industry,26.2,17.9,28.2
+India,Services,32.3,28.5,33.3
+Indonesia,Agriculture,27.7,25.5,29.2
+Indonesia,Industry,22.7,17.1,26.3
+Indonesia,Services,49.6,57.4,44.6
+Iran ,Agriculture,17.8,20.5,17.2
+Iran ,Industry,30.3,24.3,31.6
+Iran ,Services,51.9,55.2,51.1
+Iraq,Agriculture,17.8,17.2,17.9
+Iraq,Industry,22.4,10.7,23.8
+Iraq,Services,59.9,72.1,58.4
+Ireland,Agriculture,4.5,1.3,7.2
+Ireland,Industry,18.5,8.2,27.4
+Ireland,Services,77,90.5,65.5
+Israel,Agriculture,0.9,0.5,1.3
+Israel,Industry,16.8,7.6,25.1
+Israel,Services,82.3,91.9,73.6
+Italy,Agriculture,3.6,2.2,4.6
+Italy,Industry,25.6,12.7,35
+Italy,Services,70.8,85.1,60.4
+Jamaica,Agriculture,15.7,8.4,21.6
+Jamaica,Industry,16.2,6,24.5
+Jamaica,Services,68.1,85.6,53.9
+Japan,Agriculture,3.4,2.9,3.7
+Japan,Industry,24.1,13.8,32.2
+Japan,Services,72.6,83.3,64.1
+Jordan,Agriculture,3,0.9,3.4
+Jordan,Industry,24.4,12.9,26.6
+Jordan,Services,72.6,86.2,69.9
+Kazakhstan,Agriculture,15.4,13.9,16.8
+Kazakhstan,Industry,20.5,11.2,29
+Kazakhstan,Services,64.1,74.9,54.2
+Kenya,Agriculture,53.8,59.8,48
+Kenya,Industry,7.4,2,12.6
+Kenya,Services,38.7,38.1,39.3
+Kuwait,Agriculture,2,0,2.6
+Kuwait,Industry,24.4,3.3,31
+Kuwait,Services,73.7,96.7,66.5
+Kyrgyzstan,Agriculture,20.4,19.3,21
+Kyrgyzstan,Industry,24.7,14.7,30.8
+Kyrgyzstan,Services,54.9,66,48.1
+Laos,Agriculture,61.7,63.5,59.9
+Laos,Industry,12.2,9,15.2
+Laos,Services,26.2,27.5,24.9
+Latvia,Agriculture,6.5,3.7,9.3
+Latvia,Industry,23.7,12.7,34.8
+Latvia,Services,69.8,83.5,55.9
+Lebanon,Agriculture,13.4,14,13.2
+Lebanon,Industry,22.3,14,24.8
+Lebanon,Services,64.3,72,61.9
+Lesotho,Agriculture,8.4,2.9,12.7
+Lesotho,Industry,41.9,30.8,50.4
+Lesotho,Services,49.6,66.4,36.9
+Liberia,Agriculture,43,41.1,44.8
+Liberia,Industry,10.1,4.9,14.9
+Liberia,Services,46.9,54,40.3
+Libya,Agriculture,18.8,21.6,17.4
+Libya,Industry,21.7,11.3,26.5
+Libya,Services,59.5,67.1,56.1
+Lithuania,Agriculture,6.6,4.3,9
+Lithuania,Industry,25.9,16.4,35.5
+Lithuania,Services,67.4,79.4,55.4
+Luxembourg,Agriculture,1,0.5,1.4
+Luxembourg,Industry,11.5,4,17.9
+Luxembourg,Services,87.5,95.5,80.7
+Madagascar,Agriculture,63.8,59.9,67.6
+Madagascar,Industry,9.1,8.6,9.5
+Madagascar,Services,27.1,31.5,23
+Malawi,Agriculture,43.2,42.7,43.6
+Malawi,Industry,13.8,10.1,17.2
+Malawi,Services,43,47.1,39.2
+Malaysia,Agriculture,10.1,6.1,12.5
+Malaysia,Industry,26.8,19,31.7
+Malaysia,Services,63.1,74.9,55.8
+Maldives,Agriculture,8.2,1.9,9.8
+Maldives,Industry,18.3,20.8,17.7
+Maldives,Services,73.4,77.3,72.5
+Mali,Agriculture,62.3,62.4,62.2
+Mali,Industry,7.6,5.2,9.4
+Mali,Services,30.2,32.4,28.4
+Malta,Agriculture,0.9,0.3,1.4
+Malta,Industry,18,8.5,24.6
+Malta,Services,81,91.2,74
+Mauritania,Agriculture,50.6,49.5,51.1
+Mauritania,Industry,13.1,10.1,14.5
+Mauritania,Services,36.3,40.4,34.4
+Mauritius,Agriculture,5.9,4.9,6.6
+Mauritius,Industry,25.1,15.5,31
+Mauritius,Services,69,79.7,62.4
+Mexico,Agriculture,12.4,3.4,17.9
+Mexico,Industry,26.2,17.6,31.4
+Mexico,Services,61.4,79,50.8
+Mongolia,Agriculture,26.9,24.1,29.3
+Mongolia,Industry,19.5,11.9,25.9
+Mongolia,Services,53.6,64,44.8
+Montenegro,Agriculture,7.8,7.1,8.3
+Montenegro,Industry,19.2,7.7,28.1
+Montenegro,Services,73,85.1,63.6
+Morocco,Agriculture,34.1,53.2,28.2
+Morocco,Industry,21.8,12.5,24.7
+Morocco,Services,44,34.3,47.1
+Mozambique,Agriculture,69.9,79.8,59.3
+Mozambique,Industry,8.6,3,14.6
+Mozambique,Services,21.5,17.2,26.1
+Myanmar,Agriculture,48.1,42.9,51.7
+Myanmar,Industry,16.3,15.2,17
+Myanmar,Services,35.6,41.9,31.3
+Namibia,Agriculture,21.8,19.9,23.7
+Namibia,Industry,16.4,7.9,24.6
+Namibia,Services,61.8,72.2,51.7
+Nepal,Agriculture,64.5,74.4,52.3
+Nepal,Industry,15.3,8.3,24.1
+Nepal,Services,20.2,17.3,23.7
+Netherlands,Agriculture,2,1.2,2.7
+Netherlands,Industry,15.8,6.1,24.2
+Netherlands,Services,82.2,92.7,73.2
+New Caledonia,Agriculture,1.9,0.8,2.7
+New Caledonia,Industry,20.7,6.7,32
+New Caledonia,Services,77.5,92.4,65.3
+New Zealand,Agriculture,5.6,3.6,7.3
+New Zealand,Industry,19.4,9,28.8
+New Zealand,Services,75.1,87.5,63.9
+Nicaragua,Agriculture,30.6,8.2,44.7
+Nicaragua,Industry,15.6,11.7,18
+Nicaragua,Services,53.8,80.1,37.2
+Niger,Agriculture,74.8,69.5,78.8
+Niger,Industry,7.2,11,4.4
+Niger,Services,18,19.6,16.8
+Nigeria,Agriculture,34.7,23.3,43.8
+Nigeria,Industry,12.2,12.8,11.8
+Nigeria,Services,53.1,63.9,44.4
+North Macedonia,Agriculture,15.1,14.1,15.7
+North Macedonia,Industry,31.4,26.5,34.7
+North Macedonia,Services,53.5,59.4,49.6
+Norway,Agriculture,2,1,2.9
+Norway,Industry,19.1,6.7,30.1
+Norway,Services,78.9,92.3,67
+Oman,Agriculture,4.4,0.3,5
+Oman,Industry,32.8,4.1,36.5
+Oman,Services,62.7,95.5,58.5
+Pakistan,Agriculture,35.9,64,28.7
+Pakistan,Industry,25.8,17.3,28
+Pakistan,Services,38.3,18.6,43.3
+Panama,Agriculture,13.7,7.8,17.7
+Panama,Industry,18.8,9.7,24.8
+Panama,Services,67.5,82.5,57.5
+Papua New Guinea,Agriculture,57.8,59.8,55.8
+Papua New Guinea,Industry,6.7,2.7,10.5
+Papua New Guinea,Services,35.5,37.5,33.7
+Paraguay,Agriculture,19.9,14.4,23.7
+Paraguay,Industry,17.9,7.7,24.8
+Paraguay,Services,62.1,77.9,51.5
+Peru,Agriculture,27.2,25.7,28.5
+Peru,Industry,15.3,8.5,21
+Peru,Services,57.5,65.9,50.5
+Philippines,Agriculture,22.5,13.2,28.4
+Philippines,Industry,19.8,9.8,26.2
+Philippines,Services,57.6,77,45.4
+Poland,Agriculture,8.9,7.7,9.9
+Poland,Industry,32,17.2,43.9
+Poland,Services,59.1,75.1,46.2
+Portugal,Agriculture,5.7,3.7,7.6
+Portugal,Industry,24.6,15,33.7
+Portugal,Services,69.8,81.4,58.7
+Puerto Rico,Agriculture,1,0.3,1.6
+Puerto Rico,Industry,15.5,7.9,21.5
+Puerto Rico,Services,83.5,91.8,76.9
+Qatar,Agriculture,1.2,0,1.4
+Qatar,Industry,54.4,6.4,62
+Qatar,Services,44.5,93.6,36.6
+South Korea,Agriculture,4.8,4.5,5
+South Korea,Industry,25,13.2,33.6
+South Korea,Services,70.2,82.3,61.4
+Moldova,Agriculture,35.4,32.1,38.7
+Moldova,Industry,17.1,11.8,22.4
+Moldova,Services,47.5,56.1,38.9
+Romania,Agriculture,21.3,21.1,21.4
+Romania,Industry,30.1,21.4,36.8
+Romania,Services,48.6,57.5,41.8
+Russian Federation,Agriculture,5.6,3.8,7.3
+Russian Federation,Industry,26.6,15.5,37.1
+Russian Federation,Services,67.8,80.8,55.5
+Rwanda,Agriculture,61.7,70.7,52
+Rwanda,Industry,9.1,2.9,15.7
+Rwanda,Services,29.2,26.4,32.3
+Saint Lucia,Agriculture,17,11.2,21.5
+Saint Lucia,Industry,18.3,7.1,27.1
+Saint Lucia,Services,64.7,81.7,51.4
+Saint Vincent & Grenadines,Agriculture,10.5,4.6,14.8
+Saint Vincent & Grenadines,Industry,19.9,6.7,29.5
+Saint Vincent & Grenadines,Services,69.5,88.7,55.7
+Samoa,Agriculture,29.9,6.4,41.9
+Samoa,Industry,23.3,33.2,18.2
+Samoa,Services,46.9,60.3,40
+Sao Tome and Principe,Agriculture,18.7,8.5,23.7
+Sao Tome and Principe,Industry,18.5,3.3,25.9
+Sao Tome and Principe,Services,62.9,88.2,50.5
+Saudi Arabia,Agriculture,2.3,0.3,2.6
+Saudi Arabia,Industry,24.8,2.1,28.2
+Saudi Arabia,Services,72.9,97.6,69.2
+Senegal,Agriculture,29.4,24.3,32.9
+Senegal,Industry,13.6,5.5,19
+Senegal,Services,56.9,70.3,48.1
+Serbia,Agriculture,15.1,12.7,16.9
+Serbia,Industry,27.4,18.9,33.9
+Serbia,Services,57.6,68.3,49.2
+Sierra Leone,Agriculture,54.4,51.3,57.5
+Sierra Leone,Industry,6.5,1.4,11.7
+Sierra Leone,Services,39.1,47.3,30.8
+Singapore,Agriculture,0.7,0.3,1
+Singapore,Industry,15.2,10.4,18.6
+Singapore,Services,84.1,89.3,80.4
+Slovakia,Agriculture,2.1,1,3
+Slovakia,Industry,36.1,20.1,49.2
+Slovakia,Services,61.8,78.9,47.8
+Slovenia,Agriculture,5.1,4.5,5.6
+Slovenia,Industry,33.5,20.2,44.8
+Slovenia,Services,61.5,75.3,49.6
+Solomon Islands,Agriculture,37.1,36.9,37.2
+Solomon Islands,Industry,9.6,4.2,14.6
+Solomon Islands,Services,53.4,58.9,48.2
+Somalia,Agriculture,83,86.8,81.9
+Somalia,Industry,3.5,1.6,4.1
+Somalia,Services,13.4,11.6,14
+South Africa,Agriculture,5,3.6,6.1
+South Africa,Industry,22.7,11.3,31.7
+South Africa,Services,72.3,85.1,62.2
+South Sudan,Agriculture,56.1,72.5,40.6
+South Sudan,Industry,14.1,8,20
+South Sudan,Services,29.7,19.5,39.4
+Spain,Agriculture,4,2,5.6
+Spain,Industry,20.2,8.9,29.4
+Spain,Services,75.8,89.1,65
+Sri Lanka,Agriculture,23.7,26.5,22.3
+Sri Lanka,Industry,30.4,28.4,31.4
+Sri Lanka,Services,45.9,45,46.3
+State of Palestine,Agriculture,5.9,6.4,5.8
+State of Palestine,Industry,31.7,9.6,36
+State of Palestine,Services,62.4,84,58.2
+Sudan,Agriculture,39.7,53.5,34.8
+Sudan,Industry,15.9,4.3,20
+Sudan,Services,44.4,42.2,45.2
+Suriname,Agriculture,7.4,4,9.4
+Suriname,Industry,23.5,7.1,32.9
+Suriname,Services,69.1,88.9,57.7
+Sweden,Agriculture,1.6,0.8,2.3
+Sweden,Industry,17.7,6.8,27.7
+Sweden,Services,80.7,92.3,69.9
+Switzerland,Agriculture,2.9,2.4,3.3
+Switzerland,Industry,20,9.5,29.1
+Switzerland,Services,77.2,88.1,67.6
+Syrian Arab Republic,Agriculture,10.5,7.9,10.9
+Syrian Arab Republic,Industry,26.5,7.7,29.6
+Syrian Arab Republic,Services,63,84.4,59.4
+Tajikistan,Agriculture,44.2,59.4,34.9
+Tajikistan,Industry,16,7.4,21.1
+Tajikistan,Services,39.9,33.2,43.9
+Thailand,Agriculture,31.2,28.2,33.6
+Thailand,Industry,22.5,19.6,25
+Thailand,Services,46.3,52.2,41.4
+Timor-Leste,Agriculture,43.7,40.3,46.5
+Timor-Leste,Industry,9.8,7.8,11.5
+Timor-Leste,Services,46.4,51.9,42
+Togo,Agriculture,37.2,35,39.3
+Togo,Industry,12.9,13.1,12.7
+Togo,Services,49.9,51.9,48
+Tonga,Agriculture,23.7,2.3,37.2
+Tonga,Industry,29.2,51.3,15.3
+Tonga,Services,47.1,46.4,47.5
+Trinidad and Tobago,Agriculture,2.9,1.3,4.1
+Trinidad and Tobago,Industry,26.6,12.4,37.2
+Trinidad and Tobago,Services,70.5,86.3,58.7
+Tunisia,Agriculture,12.7,9.2,13.8
+Tunisia,Industry,32.5,32.6,32.4
+Tunisia,Services,54.8,58.1,53.7
+Turkey,Agriculture,18,25.3,14.6
+Turkey,Industry,26.1,15.5,31.1
+Turkey,Services,55.9,59.2,54.4
+Turkmenistan,Agriculture,19.5,18.8,20
+Turkmenistan,Industry,42.6,38.3,45.7
+Turkmenistan,Services,37.9,43,34.3
+Uganda,Agriculture,72.4,76.8,68.3
+Uganda,Industry,6.6,3.2,9.9
+Uganda,Services,20.9,20,21.8
+Ukraine,Agriculture,14.1,11.8,16.2
+Ukraine,Industry,24.8,13.7,34.8
+Ukraine,Services,61.1,74.5,49
+United Arab Emirates,Agriculture,1.4,0,1.6
+United Arab Emirates,Industry,34.2,5.4,40.1
+United Arab Emirates,Services,64.4,94.6,58.2
+United Kingdom,Agriculture,1,0.6,1.4
+United Kingdom,Industry,17.7,7.2,26.9
+United Kingdom,Services,81.3,92.2,71.7
+Tanzania,Agriculture,64.9,66.9,63
+Tanzania,Industry,6.8,3.1,10.2
+Tanzania,Services,28.3,30,26.8
+United States of America,Agriculture,1.3,0.7,1.8
+United States of America,Industry,19.7,8.6,29.2
+United States of America,Services,79,90.7,69
+United States Virgin Islands,Agriculture,3.2,0.8,5.7
+United States Virgin Islands,Industry,19.6,7.5,32.4
+United States Virgin Islands,Services,77.2,91.7,61.9
+Uruguay,Agriculture,7.9,3.5,11.5
+Uruguay,Industry,18.7,8.2,27.1
+Uruguay,Services,73.4,88.3,61.4
+Uzbekistan,Agriculture,23.3,23.9,22.9
+Uzbekistan,Industry,29.9,17.4,38.6
+Uzbekistan,Services,46.8,58.7,38.5
+Vanuatu,Agriculture,55.3,54.2,56.1
+Vanuatu,Industry,6.3,2.3,9.4
+Vanuatu,Services,38.4,43.5,34.6
+Venezuela,Agriculture,8.4,1.1,13.1
+Venezuela,Industry,16.1,7.7,21.5
+Venezuela,Services,75.5,91.2,65.4
+Viet Nam,Agriculture,36.2,37.5,35
+Viet Nam,Industry,28.4,23.7,32.7
+Viet Nam,Services,35.4,38.8,32.3
+Yemen,Agriculture,28.6,46,27.4
+Yemen,Industry,10,10.9,9.9
+Yemen,Services,61.4,43.2,62.7
+Zambia,Agriculture,48.5,53.6,43.7
+Zambia,Industry,10.8,4.4,16.7
+Zambia,Services,40.7,41.9,39.6
+Zimbabwe,Agriculture,66.3,69.6,62.9
+Zimbabwe,Industry,6.5,1.9,11.3
+Zimbabwe,Services,27.2,28.5,25.8

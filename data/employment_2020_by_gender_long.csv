@@ -1,0 +1,1123 @@
+﻿country,category,value,gender
+Afghanistan,Agriculture,64.8,female
+Albania,Agriculture,40,female
+Algeria,Agriculture,3.5,female
+Angola,Agriculture,56,female
+Argentina,Agriculture,0,female
+Armenia,Agriculture,31.9,female
+Australia,Agriculture,1.6,female
+Austria,Agriculture,3.1,female
+Azerbaijan,Agriculture,40.9,female
+Bahamas,Agriculture,0.3,female
+Bahrain,Agriculture,0,female
+Bangladesh,Agriculture,56.5,female
+Barbados,Agriculture,1.5,female
+Belarus,Agriculture,7.1,female
+Belgium,Agriculture,0.6,female
+Belize,Agriculture,4.6,female
+Benin,Agriculture,29.6,female
+Bhutan,Agriculture,62.9,female
+Bolivia,Agriculture,30.2,female
+Bosnia and Herzegovina,Agriculture,15.1,female
+Botswana,Agriculture,16,female
+Brazil,Agriculture,4,female
+Brunei,Agriculture,0.5,female
+Bulgaria,Agriculture,4,female
+Burkina Faso,Agriculture,16.6,female
+Burundi,Agriculture,96,female
+Cabo Verde,Agriculture,6.1,female
+Cambodia,Agriculture,33.2,female
+Cameroon,Agriculture,47.2,female
+Canada,Agriculture,0.9,female
+Central African Republic,Agriculture,81,female
+Chad,Agriculture,74.5,female
+Channel Islands,Agriculture,2,female
+Chile,Agriculture,4.8,female
+China,Agriculture,22.1,female
+Hong Kong ,Agriculture,0.1,female
+Macao,Agriculture,0.1,female
+Colombia,Agriculture,7.6,female
+Comoros,Agriculture,55.2,female
+Congo,Agriculture,33.1,female
+Costa Rica,Agriculture,4.1,female
+Côte d’Ivoire,Agriculture,30.3,female
+Croatia,Agriculture,4.5,female
+Cuba,Agriculture,7.2,female
+Cyprus,Agriculture,0.9,female
+Czechia,Agriculture,1.6,female
+North Korea,Agriculture,59.4,female
+Congo,Agriculture,72.2,female
+Denmark,Agriculture,0.9,female
+Djibouti,Agriculture,30.2,female
+Dominican Republic,Agriculture,1.3,female
+Ecuador,Agriculture,26.5,female
+Egypt,Agriculture,34.9,female
+El Salvador,Agriculture,3.3,female
+Equatorial Guinea,Agriculture,42.6,female
+Eritrea,Agriculture,65.4,female
+Estonia,Agriculture,1.5,female
+Eswatini,Agriculture,10.2,female
+Ethiopia,Agriculture,57.4,female
+Fiji,Agriculture,33.9,female
+Finland,Agriculture,1.9,female
+France,Agriculture,1.3,female
+French Polynesia,Agriculture,3.7,female
+Gabon,Agriculture,47.3,female
+Gambia,Agriculture,32.1,female
+Georgia,Agriculture,43.7,female
+Germany,Agriculture,0.8,female
+Ghana,Agriculture,21.3,female
+Greece,Agriculture,11,female
+Guam,Agriculture,0.1,female
+Guatemala,Agriculture,9.7,female
+Guinea,Agriculture,62.6,female
+Guinea-Bissau,Agriculture,70.2,female
+Guyana,Agriculture,8.8,female
+Haiti,Agriculture,12.7,female
+Honduras,Agriculture,9.8,female
+Hungary,Agriculture,2.5,female
+Iceland,Agriculture,1.3,female
+India,Agriculture,53.6,female
+Indonesia,Agriculture,25.5,female
+Iran ,Agriculture,20.5,female
+Iraq,Agriculture,17.2,female
+Ireland,Agriculture,1.3,female
+Israel,Agriculture,0.5,female
+Italy,Agriculture,2.2,female
+Jamaica,Agriculture,8.4,female
+Japan,Agriculture,2.9,female
+Jordan,Agriculture,0.9,female
+Kazakhstan,Agriculture,13.9,female
+Kenya,Agriculture,59.8,female
+Kuwait,Agriculture,0,female
+Kyrgyzstan,Agriculture,19.3,female
+Laos,Agriculture,63.5,female
+Latvia,Agriculture,3.7,female
+Lebanon,Agriculture,14,female
+Lesotho,Agriculture,2.9,female
+Liberia,Agriculture,41.1,female
+Libya,Agriculture,21.6,female
+Lithuania,Agriculture,4.3,female
+Luxembourg,Agriculture,0.5,female
+Madagascar,Agriculture,59.9,female
+Malawi,Agriculture,42.7,female
+Malaysia,Agriculture,6.1,female
+Maldives,Agriculture,1.9,female
+Mali,Agriculture,62.4,female
+Malta,Agriculture,0.3,female
+Mauritania,Agriculture,49.5,female
+Mauritius,Agriculture,4.9,female
+Mexico,Agriculture,3.4,female
+Mongolia,Agriculture,24.1,female
+Montenegro,Agriculture,7.1,female
+Morocco,Agriculture,53.2,female
+Mozambique,Agriculture,79.8,female
+Myanmar,Agriculture,42.9,female
+Namibia,Agriculture,19.9,female
+Nepal,Agriculture,74.4,female
+Netherlands,Agriculture,1.2,female
+New Caledonia,Agriculture,0.8,female
+New Zealand,Agriculture,3.6,female
+Nicaragua,Agriculture,8.2,female
+Niger,Agriculture,69.5,female
+Nigeria,Agriculture,23.3,female
+North Macedonia,Agriculture,14.1,female
+Norway,Agriculture,1,female
+Oman,Agriculture,0.3,female
+Pakistan,Agriculture,64,female
+Panama,Agriculture,7.8,female
+Papua New Guinea,Agriculture,59.8,female
+Paraguay,Agriculture,14.4,female
+Peru,Agriculture,25.7,female
+Philippines,Agriculture,13.2,female
+Poland,Agriculture,7.7,female
+Portugal,Agriculture,3.7,female
+Puerto Rico,Agriculture,0.3,female
+Qatar,Agriculture,0,female
+South Korea,Agriculture,4.5,female
+Moldova,Agriculture,32.1,female
+Romania,Agriculture,21.1,female
+Russian Federation,Agriculture,3.8,female
+Rwanda,Agriculture,70.7,female
+Saint Lucia,Agriculture,11.2,female
+Saint Vincent & Grenadines,Agriculture,4.6,female
+Samoa,Agriculture,6.4,female
+Sao Tome and Principe,Agriculture,8.5,female
+Saudi Arabia,Agriculture,0.3,female
+Senegal,Agriculture,24.3,female
+Serbia,Agriculture,12.7,female
+Sierra Leone,Agriculture,51.3,female
+Singapore,Agriculture,0.3,female
+Slovakia,Agriculture,1,female
+Slovenia,Agriculture,4.5,female
+Solomon Islands,Agriculture,36.9,female
+Somalia,Agriculture,86.8,female
+South Africa,Agriculture,3.6,female
+South Sudan,Agriculture,72.5,female
+Spain,Agriculture,2,female
+Sri Lanka,Agriculture,26.5,female
+State of Palestine,Agriculture,6.4,female
+Sudan,Agriculture,53.5,female
+Suriname,Agriculture,4,female
+Sweden,Agriculture,0.8,female
+Switzerland,Agriculture,2.4,female
+Syrian Arab Republic,Agriculture,7.9,female
+Tajikistan,Agriculture,59.4,female
+Thailand,Agriculture,28.2,female
+Timor-Leste,Agriculture,40.3,female
+Togo,Agriculture,35,female
+Tonga,Agriculture,2.3,female
+Trinidad and Tobago,Agriculture,1.3,female
+Tunisia,Agriculture,9.2,female
+Turkey,Agriculture,25.3,female
+Turkmenistan,Agriculture,18.8,female
+Uganda,Agriculture,76.8,female
+Ukraine,Agriculture,11.8,female
+United Arab Emirates,Agriculture,0,female
+United Kingdom,Agriculture,0.6,female
+Tanzania,Agriculture,66.9,female
+United States of America,Agriculture,0.7,female
+United States Virgin Islands,Agriculture,0.8,female
+Uruguay,Agriculture,3.5,female
+Uzbekistan,Agriculture,23.9,female
+Vanuatu,Agriculture,54.2,female
+Venezuela,Agriculture,1.1,female
+Viet Nam,Agriculture,37.5,female
+Yemen,Agriculture,46,female
+Zambia,Agriculture,53.6,female
+Zimbabwe,Agriculture,69.6,female
+Afghanistan,Agriculture,36.4,male
+Albania,Agriculture,33.3,male
+Algeria,Agriculture,10.9,male
+Angola,Agriculture,44.2,male
+Argentina,Agriculture,0.1,male
+Armenia,Agriculture,26.3,male
+Australia,Agriculture,3.3,male
+Austria,Agriculture,3.9,male
+Azerbaijan,Agriculture,30.4,male
+Bahamas,Agriculture,3.7,male
+Bahrain,Agriculture,1.2,male
+Bangladesh,Agriculture,29.7,male
+Barbados,Agriculture,3.6,male
+Belarus,Agriculture,14.3,male
+Belgium,Agriculture,1.2,male
+Belize,Agriculture,23.8,male
+Benin,Agriculture,46.1,male
+Bhutan,Agriculture,49,male
+Bolivia,Agriculture,30.5,male
+Bosnia and Herzegovina,Agriculture,15.1,male
+Botswana,Agriculture,24.3,male
+Brazil,Agriculture,12.9,male
+Brunei,Agriculture,2,male
+Bulgaria,Agriculture,8.2,male
+Burkina Faso,Agriculture,30.7,male
+Burundi,Agriculture,87.8,male
+Cabo Verde,Agriculture,15.2,male
+Cambodia,Agriculture,29.2,male
+Cameroon,Agriculture,39,male
+Canada,Agriculture,1.9,male
+Central African Republic,Agriculture,73.8,male
+Chad,Agriculture,77.8,male
+Channel Islands,Agriculture,4.7,male
+Chile,Agriculture,11.7,male
+China,Agriculture,26.8,male
+Hong Kong ,Agriculture,0.2,male
+Macao,Agriculture,0.6,male
+Colombia,Agriculture,22.7,male
+Comoros,Agriculture,46.1,male
+Congo,Agriculture,34.4,male
+Costa Rica,Agriculture,16.6,male
+Côte d’Ivoire,Agriculture,45.7,male
+Croatia,Agriculture,6.8,male
+Cuba,Agriculture,23.6,male
+Cyprus,Agriculture,2.9,male
+Czechia,Agriculture,3.5,male
+North Korea,Agriculture,43.6,male
+Congo,Agriculture,58.4,male
+Denmark,Agriculture,3.2,male
+Djibouti,Agriculture,33.8,male
+Dominican Republic,Agriculture,13.7,male
+Ecuador,Agriculture,31.4,male
+Egypt,Agriculture,20.3,male
+El Salvador,Agriculture,25.3,male
+Equatorial Guinea,Agriculture,42.5,male
+Eritrea,Agriculture,56.8,male
+Estonia,Agriculture,4.5,male
+Eswatini,Agriculture,14.1,male
+Ethiopia,Agriculture,72.6,male
+Fiji,Agriculture,36.6,male
+Finland,Agriculture,5,male
+France,Agriculture,3.4,male
+French Polynesia,Agriculture,9.1,male
+Gabon,Agriculture,24,male
+Gambia,Agriculture,22.5,male
+Georgia,Agriculture,39.3,male
+Germany,Agriculture,1.5,male
+Ghana,Agriculture,34.7,male
+Greece,Agriculture,12.2,male
+Guam,Agriculture,0.3,male
+Guatemala,Agriculture,41.8,male
+Guinea,Agriculture,59.6,male
+Guinea-Bissau,Agriculture,65.6,male
+Guyana,Agriculture,21.7,male
+Haiti,Agriculture,41.5,male
+Honduras,Agriculture,42.4,male
+Hungary,Agriculture,6.3,male
+Iceland,Agriculture,6.1,male
+India,Agriculture,38.5,male
+Indonesia,Agriculture,29.2,male
+Iran ,Agriculture,17.2,male
+Iraq,Agriculture,17.9,male
+Ireland,Agriculture,7.2,male
+Israel,Agriculture,1.3,male
+Italy,Agriculture,4.6,male
+Jamaica,Agriculture,21.6,male
+Japan,Agriculture,3.7,male
+Jordan,Agriculture,3.4,male
+Kazakhstan,Agriculture,16.8,male
+Kenya,Agriculture,48,male
+Kuwait,Agriculture,2.6,male
+Kyrgyzstan,Agriculture,21,male
+Laos,Agriculture,59.9,male
+Latvia,Agriculture,9.3,male
+Lebanon,Agriculture,13.2,male
+Lesotho,Agriculture,12.7,male
+Liberia,Agriculture,44.8,male
+Libya,Agriculture,17.4,male
+Lithuania,Agriculture,9,male
+Luxembourg,Agriculture,1.4,male
+Madagascar,Agriculture,67.6,male
+Malawi,Agriculture,43.6,male
+Malaysia,Agriculture,12.5,male
+Maldives,Agriculture,9.8,male
+Mali,Agriculture,62.2,male
+Malta,Agriculture,1.4,male
+Mauritania,Agriculture,51.1,male
+Mauritius,Agriculture,6.6,male
+Mexico,Agriculture,17.9,male
+Mongolia,Agriculture,29.3,male
+Montenegro,Agriculture,8.3,male
+Morocco,Agriculture,28.2,male
+Mozambique,Agriculture,59.3,male
+Myanmar,Agriculture,51.7,male
+Namibia,Agriculture,23.7,male
+Nepal,Agriculture,52.3,male
+Netherlands,Agriculture,2.7,male
+New Caledonia,Agriculture,2.7,male
+New Zealand,Agriculture,7.3,male
+Nicaragua,Agriculture,44.7,male
+Niger,Agriculture,78.8,male
+Nigeria,Agriculture,43.8,male
+North Macedonia,Agriculture,15.7,male
+Norway,Agriculture,2.9,male
+Oman,Agriculture,5,male
+Pakistan,Agriculture,28.7,male
+Panama,Agriculture,17.7,male
+Papua New Guinea,Agriculture,55.8,male
+Paraguay,Agriculture,23.7,male
+Peru,Agriculture,28.5,male
+Philippines,Agriculture,28.4,male
+Poland,Agriculture,9.9,male
+Portugal,Agriculture,7.6,male
+Puerto Rico,Agriculture,1.6,male
+Qatar,Agriculture,1.4,male
+South Korea,Agriculture,5,male
+Moldova,Agriculture,38.7,male
+Romania,Agriculture,21.4,male
+Russian Federation,Agriculture,7.3,male
+Rwanda,Agriculture,52,male
+Saint Lucia,Agriculture,21.5,male
+Saint Vincent & Grenadines,Agriculture,14.8,male
+Samoa,Agriculture,41.9,male
+Sao Tome and Principe,Agriculture,23.7,male
+Saudi Arabia,Agriculture,2.6,male
+Senegal,Agriculture,32.9,male
+Serbia,Agriculture,16.9,male
+Sierra Leone,Agriculture,57.5,male
+Singapore,Agriculture,1,male
+Slovakia,Agriculture,3,male
+Slovenia,Agriculture,5.6,male
+Solomon Islands,Agriculture,37.2,male
+Somalia,Agriculture,81.9,male
+South Africa,Agriculture,6.1,male
+South Sudan,Agriculture,40.6,male
+Spain,Agriculture,5.6,male
+Sri Lanka,Agriculture,22.3,male
+State of Palestine,Agriculture,5.8,male
+Sudan,Agriculture,34.8,male
+Suriname,Agriculture,9.4,male
+Sweden,Agriculture,2.3,male
+Switzerland,Agriculture,3.3,male
+Syrian Arab Republic,Agriculture,10.9,male
+Tajikistan,Agriculture,34.9,male
+Thailand,Agriculture,33.6,male
+Timor-Leste,Agriculture,46.5,male
+Togo,Agriculture,39.3,male
+Tonga,Agriculture,37.2,male
+Trinidad and Tobago,Agriculture,4.1,male
+Tunisia,Agriculture,13.8,male
+Turkey,Agriculture,14.6,male
+Turkmenistan,Agriculture,20,male
+Uganda,Agriculture,68.3,male
+Ukraine,Agriculture,16.2,male
+United Arab Emirates,Agriculture,1.6,male
+United Kingdom,Agriculture,1.4,male
+Tanzania,Agriculture,63,male
+United States of America,Agriculture,1.8,male
+United States Virgin Islands,Agriculture,5.7,male
+Uruguay,Agriculture,11.5,male
+Uzbekistan,Agriculture,22.9,male
+Vanuatu,Agriculture,56.1,male
+Venezuela,Agriculture,13.1,male
+Viet Nam,Agriculture,35,male
+Yemen,Agriculture,27.4,male
+Zambia,Agriculture,43.7,male
+Zimbabwe,Agriculture,62.9,male
+Afghanistan,Industry,24.8,female
+Albania,Industry,16.2,female
+Algeria,Industry,23.3,female
+Angola,Industry,1.1,female
+Argentina,Industry,8.6,female
+Armenia,Industry,9.2,female
+Australia,Industry,8,female
+Austria,Industry,11.6,female
+Azerbaijan,Industry,6.1,female
+Bahamas,Industry,2.9,female
+Bahrain,Industry,8.6,female
+Bangladesh,Industry,18.3,female
+Barbados,Industry,9,female
+Belarus,Industry,18.5,female
+Belgium,Industry,8.3,female
+Belize,Industry,9.3,female
+Benin,Industry,16.5,female
+Bhutan,Industry,10.4,female
+Bolivia,Industry,10.1,female
+Bosnia and Herzegovina,Industry,17.9,female
+Botswana,Industry,9.4,female
+Brazil,Industry,10.3,female
+Brunei,Industry,8.9,female
+Bulgaria,Industry,22.1,female
+Burkina Faso,Industry,33.8,female
+Burundi,Industry,0.4,female
+Cabo Verde,Industry,11,female
+Cambodia,Industry,27.8,female
+Cameroon,Industry,11.3,female
+Canada,Industry,8.3,female
+Central African Republic,Industry,2.7,female
+Chad,Industry,0.6,female
+Channel Islands,Industry,10.2,female
+Chile,Industry,9.9,female
+China,Industry,25.1,female
+Hong Kong ,Industry,3.9,female
+Macao,Industry,2.5,female
+Colombia,Industry,14.6,female
+Comoros,Industry,9.7,female
+Congo,Industry,21,female
+Costa Rica,Industry,10.8,female
+Côte d’Ivoire,Industry,10.8,female
+Croatia,Industry,14.9,female
+Cuba,Industry,10.1,female
+Cyprus,Industry,6.1,female
+Czechia,Industry,23.4,female
+North Korea,Industry,6.8,female
+Congo,Industry,3.5,female
+Denmark,Industry,8.4,female
+Djibouti,Industry,7.6,female
+Dominican Republic,Industry,9.3,female
+Ecuador,Industry,10.6,female
+Egypt,Industry,7.2,female
+El Salvador,Industry,17.2,female
+Equatorial Guinea,Industry,10.2,female
+Eritrea,Industry,4.5,female
+Estonia,Industry,16.8,female
+Eswatini,Industry,22.2,female
+Ethiopia,Industry,9.8,female
+Fiji,Industry,8.4,female
+Finland,Industry,8.7,female
+France,Industry,9.3,female
+French Polynesia,Industry,4.9,female
+Gabon,Industry,2.8,female
+Gambia,Industry,4,female
+Georgia,Industry,5.8,female
+Germany,Industry,13.5,female
+Ghana,Industry,24.1,female
+Greece,Industry,7.6,female
+Guam,Industry,3.5,female
+Guatemala,Industry,16.5,female
+Guinea,Industry,2.1,female
+Guinea-Bissau,Industry,4.2,female
+Guyana,Industry,8.1,female
+Haiti,Industry,1.9,female
+Honduras,Industry,17.4,female
+Hungary,Industry,20,female
+Iceland,Industry,6.8,female
+India,Industry,17.9,female
+Indonesia,Industry,17.1,female
+Iran ,Industry,24.3,female
+Iraq,Industry,10.7,female
+Ireland,Industry,8.2,female
+Israel,Industry,7.6,female
+Italy,Industry,12.7,female
+Jamaica,Industry,6,female
+Japan,Industry,13.8,female
+Jordan,Industry,12.9,female
+Kazakhstan,Industry,11.2,female
+Kenya,Industry,2,female
+Kuwait,Industry,3.3,female
+Kyrgyzstan,Industry,14.7,female
+Laos,Industry,9,female
+Latvia,Industry,12.7,female
+Lebanon,Industry,14,female
+Lesotho,Industry,30.8,female
+Liberia,Industry,4.9,female
+Libya,Industry,11.3,female
+Lithuania,Industry,16.4,female
+Luxembourg,Industry,4,female
+Madagascar,Industry,8.6,female
+Malawi,Industry,10.1,female
+Malaysia,Industry,19,female
+Maldives,Industry,20.8,female
+Mali,Industry,5.2,female
+Malta,Industry,8.5,female
+Mauritania,Industry,10.1,female
+Mauritius,Industry,15.5,female
+Mexico,Industry,17.6,female
+Mongolia,Industry,11.9,female
+Montenegro,Industry,7.7,female
+Morocco,Industry,12.5,female
+Mozambique,Industry,3,female
+Myanmar,Industry,15.2,female
+Namibia,Industry,7.9,female
+Nepal,Industry,8.3,female
+Netherlands,Industry,6.1,female
+New Caledonia,Industry,6.7,female
+New Zealand,Industry,9,female
+Nicaragua,Industry,11.7,female
+Niger,Industry,11,female
+Nigeria,Industry,12.8,female
+North Macedonia,Industry,26.5,female
+Norway,Industry,6.7,female
+Oman,Industry,4.1,female
+Pakistan,Industry,17.3,female
+Panama,Industry,9.7,female
+Papua New Guinea,Industry,2.7,female
+Paraguay,Industry,7.7,female
+Peru,Industry,8.5,female
+Philippines,Industry,9.8,female
+Poland,Industry,17.2,female
+Portugal,Industry,15,female
+Puerto Rico,Industry,7.9,female
+Qatar,Industry,6.4,female
+South Korea,Industry,13.2,female
+Moldova,Industry,11.8,female
+Romania,Industry,21.4,female
+Russian Federation,Industry,15.5,female
+Rwanda,Industry,2.9,female
+Saint Lucia,Industry,7.1,female
+Saint Vincent & Grenadines,Industry,6.7,female
+Samoa,Industry,33.2,female
+Sao Tome and Principe,Industry,3.3,female
+Saudi Arabia,Industry,2.1,female
+Senegal,Industry,5.5,female
+Serbia,Industry,18.9,female
+Sierra Leone,Industry,1.4,female
+Singapore,Industry,10.4,female
+Slovakia,Industry,20.1,female
+Slovenia,Industry,20.2,female
+Solomon Islands,Industry,4.2,female
+Somalia,Industry,1.6,female
+South Africa,Industry,11.3,female
+South Sudan,Industry,8,female
+Spain,Industry,8.9,female
+Sri Lanka,Industry,28.4,female
+State of Palestine,Industry,9.6,female
+Sudan,Industry,4.3,female
+Suriname,Industry,7.1,female
+Sweden,Industry,6.8,female
+Switzerland,Industry,9.5,female
+Syrian Arab Republic,Industry,7.7,female
+Tajikistan,Industry,7.4,female
+Thailand,Industry,19.6,female
+Timor-Leste,Industry,7.8,female
+Togo,Industry,13.1,female
+Tonga,Industry,51.3,female
+Trinidad and Tobago,Industry,12.4,female
+Tunisia,Industry,32.6,female
+Turkey,Industry,15.5,female
+Turkmenistan,Industry,38.3,female
+Uganda,Industry,3.2,female
+Ukraine,Industry,13.7,female
+United Arab Emirates,Industry,5.4,female
+United Kingdom,Industry,7.2,female
+Tanzania,Industry,3.1,female
+United States of America,Industry,8.6,female
+United States Virgin Islands,Industry,7.5,female
+Uruguay,Industry,8.2,female
+Uzbekistan,Industry,17.4,female
+Vanuatu,Industry,2.3,female
+Venezuela,Industry,7.7,female
+Viet Nam,Industry,23.7,female
+Yemen,Industry,10.9,female
+Zambia,Industry,4.4,female
+Zimbabwe,Industry,1.9,female
+Afghanistan,Industry,16.5,male
+Albania,Industry,23.2,male
+Algeria,Industry,32,male
+Angola,Industry,15.2,male
+Argentina,Industry,30.2,male
+Armenia,Industry,24.5,male
+Australia,Industry,30,male
+Austria,Industry,36.7,male
+Azerbaijan,Industry,23.2,male
+Bahamas,Industry,23.9,male
+Bahrain,Industry,41.4,male
+Bangladesh,Industry,23.1,male
+Barbados,Industry,28.5,male
+Belarus,Industry,41.8,male
+Belgium,Industry,31.3,male
+Belize,Industry,19.6,male
+Benin,Industry,21.6,male
+Bhutan,Industry,11.5,male
+Bolivia,Industry,26.6,male
+Bosnia and Herzegovina,Industry,41.1,male
+Botswana,Industry,25.7,male
+Brazil,Industry,26.5,male
+Brunei,Industry,20.9,male
+Bulgaria,Industry,37,male
+Burkina Faso,Industry,34.1,male
+Burundi,Industry,2.6,male
+Cabo Verde,Industry,31,male
+Cambodia,Industry,31.3,male
+Cameroon,Industry,18.3,male
+Canada,Industry,29.4,male
+Central African Republic,Industry,7.7,male
+Chad,Industry,3.4,male
+Channel Islands,Industry,33,male
+Chile,Industry,30.8,male
+China,Industry,30.6,male
+Hong Kong ,Industry,19.1,male
+Macao,Industry,16.1,male
+Colombia,Industry,23.8,male
+Comoros,Industry,15.5,male
+Congo,Industry,22.5,male
+Costa Rica,Industry,25.2,male
+Côte d’Ivoire,Industry,15.4,male
+Croatia,Industry,38.2,male
+Cuba,Industry,21,male
+Cyprus,Industry,24.8,male
+Czechia,Industry,48.2,male
+North Korea,Industry,19.1,male
+Congo,Industry,15.8,male
+Denmark,Industry,27.1,male
+Djibouti,Industry,17,male
+Dominican Republic,Industry,26.8,male
+Ecuador,Industry,23.3,male
+Egypt,Industry,33.7,male
+El Salvador,Industry,25.6,male
+Equatorial Guinea,Industry,23.4,male
+Eritrea,Industry,11.8,male
+Estonia,Industry,41,male
+Eswatini,Industry,24.7,male
+Ethiopia,Industry,10.8,male
+Fiji,Industry,15.7,male
+Finland,Industry,34.4,male
+France,Industry,29.7,male
+French Polynesia,Industry,21.9,male
+Gabon,Industry,15.2,male
+Gambia,Industry,24.5,male
+Georgia,Industry,21.3,male
+Germany,Industry,38.3,male
+Ghana,Industry,20.6,male
+Greece,Industry,20.5,male
+Guam,Industry,21.6,male
+Guatemala,Industry,19.4,male
+Guinea,Industry,11.2,male
+Guinea-Bissau,Industry,9.6,male
+Guyana,Industry,31.9,male
+Haiti,Industry,10.7,male
+Honduras,Industry,21.1,male
+Hungary,Industry,43.5,male
+Iceland,Industry,24.4,male
+India,Industry,28.2,male
+Indonesia,Industry,26.3,male
+Iran ,Industry,31.6,male
+Iraq,Industry,23.8,male
+Ireland,Industry,27.4,male
+Israel,Industry,25.1,male
+Italy,Industry,35,male
+Jamaica,Industry,24.5,male
+Japan,Industry,32.2,male
+Jordan,Industry,26.6,male
+Kazakhstan,Industry,29,male
+Kenya,Industry,12.6,male
+Kuwait,Industry,31,male
+Kyrgyzstan,Industry,30.8,male
+Laos,Industry,15.2,male
+Latvia,Industry,34.8,male
+Lebanon,Industry,24.8,male
+Lesotho,Industry,50.4,male
+Liberia,Industry,14.9,male
+Libya,Industry,26.5,male
+Lithuania,Industry,35.5,male
+Luxembourg,Industry,17.9,male
+Madagascar,Industry,9.5,male
+Malawi,Industry,17.2,male
+Malaysia,Industry,31.7,male
+Maldives,Industry,17.7,male
+Mali,Industry,9.4,male
+Malta,Industry,24.6,male
+Mauritania,Industry,14.5,male
+Mauritius,Industry,31,male
+Mexico,Industry,31.4,male
+Mongolia,Industry,25.9,male
+Montenegro,Industry,28.1,male
+Morocco,Industry,24.7,male
+Mozambique,Industry,14.6,male
+Myanmar,Industry,17,male
+Namibia,Industry,24.6,male
+Nepal,Industry,24.1,male
+Netherlands,Industry,24.2,male
+New Caledonia,Industry,32,male
+New Zealand,Industry,28.8,male
+Nicaragua,Industry,18,male
+Niger,Industry,4.4,male
+Nigeria,Industry,11.8,male
+North Macedonia,Industry,34.7,male
+Norway,Industry,30.1,male
+Oman,Industry,36.5,male
+Pakistan,Industry,28,male
+Panama,Industry,24.8,male
+Papua New Guinea,Industry,10.5,male
+Paraguay,Industry,24.8,male
+Peru,Industry,21,male
+Philippines,Industry,26.2,male
+Poland,Industry,43.9,male
+Portugal,Industry,33.7,male
+Puerto Rico,Industry,21.5,male
+Qatar,Industry,62,male
+South Korea,Industry,33.6,male
+Moldova,Industry,22.4,male
+Romania,Industry,36.8,male
+Russian Federation,Industry,37.1,male
+Rwanda,Industry,15.7,male
+Saint Lucia,Industry,27.1,male
+Saint Vincent & Grenadines,Industry,29.5,male
+Samoa,Industry,18.2,male
+Sao Tome and Principe,Industry,25.9,male
+Saudi Arabia,Industry,28.2,male
+Senegal,Industry,19,male
+Serbia,Industry,33.9,male
+Sierra Leone,Industry,11.7,male
+Singapore,Industry,18.6,male
+Slovakia,Industry,49.2,male
+Slovenia,Industry,44.8,male
+Solomon Islands,Industry,14.6,male
+Somalia,Industry,4.1,male
+South Africa,Industry,31.7,male
+South Sudan,Industry,20,male
+Spain,Industry,29.4,male
+Sri Lanka,Industry,31.4,male
+State of Palestine,Industry,36,male
+Sudan,Industry,20,male
+Suriname,Industry,32.9,male
+Sweden,Industry,27.7,male
+Switzerland,Industry,29.1,male
+Syrian Arab Republic,Industry,29.6,male
+Tajikistan,Industry,21.1,male
+Thailand,Industry,25,male
+Timor-Leste,Industry,11.5,male
+Togo,Industry,12.7,male
+Tonga,Industry,15.3,male
+Trinidad and Tobago,Industry,37.2,male
+Tunisia,Industry,32.4,male
+Turkey,Industry,31.1,male
+Turkmenistan,Industry,45.7,male
+Uganda,Industry,9.9,male
+Ukraine,Industry,34.8,male
+United Arab Emirates,Industry,40.1,male
+United Kingdom,Industry,26.9,male
+Tanzania,Industry,10.2,male
+United States of America,Industry,29.2,male
+United States Virgin Islands,Industry,32.4,male
+Uruguay,Industry,27.1,male
+Uzbekistan,Industry,38.6,male
+Vanuatu,Industry,9.4,male
+Venezuela,Industry,21.5,male
+Viet Nam,Industry,32.7,male
+Yemen,Industry,9.9,male
+Zambia,Industry,16.7,male
+Zimbabwe,Industry,11.3,male
+Afghanistan,Services,10.3,female
+Albania,Services,43.8,female
+Algeria,Services,73.2,female
+Angola,Services,42.9,female
+Argentina,Services,91.3,female
+Armenia,Services,58.9,female
+Australia,Services,90.4,female
+Austria,Services,85.4,female
+Azerbaijan,Services,52.9,female
+Bahamas,Services,96.8,female
+Bahrain,Services,91.4,female
+Bangladesh,Services,25.2,female
+Barbados,Services,89.5,female
+Belarus,Services,74.3,female
+Belgium,Services,91.1,female
+Belize,Services,86,female
+Benin,Services,53.9,female
+Bhutan,Services,26.6,female
+Bolivia,Services,59.7,female
+Bosnia and Herzegovina,Services,67,female
+Botswana,Services,74.6,female
+Brazil,Services,85.7,female
+Brunei,Services,90.6,female
+Bulgaria,Services,73.9,female
+Burkina Faso,Services,49.6,female
+Burundi,Services,3.7,female
+Cabo Verde,Services,82.9,female
+Cambodia,Services,38.9,female
+Cameroon,Services,41.4,female
+Canada,Services,90.8,female
+Central African Republic,Services,16.3,female
+Chad,Services,25,female
+Channel Islands,Services,87.8,female
+Chile,Services,85.3,female
+China,Services,52.8,female
+Hong Kong ,Services,96,female
+Macao,Services,97.4,female
+Colombia,Services,77.7,female
+Comoros,Services,35.1,female
+Congo,Services,45.9,female
+Costa Rica,Services,85,female
+Côte d’Ivoire,Services,59,female
+Croatia,Services,80.7,female
+Cuba,Services,82.7,female
+Cyprus,Services,93,female
+Czechia,Services,74.9,female
+North Korea,Services,33.8,female
+Congo,Services,24.3,female
+Denmark,Services,90.7,female
+Djibouti,Services,62.2,female
+Dominican Republic,Services,89.4,female
+Ecuador,Services,62.9,female
+Egypt,Services,58,female
+El Salvador,Services,79.5,female
+Equatorial Guinea,Services,47.2,female
+Eritrea,Services,30,female
+Estonia,Services,81.7,female
+Eswatini,Services,67.6,female
+Ethiopia,Services,32.7,female
+Fiji,Services,57.7,female
+Finland,Services,89.4,female
+France,Services,89.3,female
+French Polynesia,Services,91.4,female
+Gabon,Services,49.9,female
+Gambia,Services,63.9,female
+Georgia,Services,50.5,female
+Germany,Services,85.7,female
+Ghana,Services,54.7,female
+Greece,Services,81.4,female
+Guam,Services,96.5,female
+Guatemala,Services,73.8,female
+Guinea,Services,35.3,female
+Guinea-Bissau,Services,25.6,female
+Guyana,Services,83.2,female
+Haiti,Services,85.5,female
+Honduras,Services,72.8,female
+Hungary,Services,77.5,female
+Iceland,Services,91.9,female
+India,Services,28.5,female
+Indonesia,Services,57.4,female
+Iran ,Services,55.2,female
+Iraq,Services,72.1,female
+Ireland,Services,90.5,female
+Israel,Services,91.9,female
+Italy,Services,85.1,female
+Jamaica,Services,85.6,female
+Japan,Services,83.3,female
+Jordan,Services,86.2,female
+Kazakhstan,Services,74.9,female
+Kenya,Services,38.1,female
+Kuwait,Services,96.7,female
+Kyrgyzstan,Services,66,female
+Laos,Services,27.5,female
+Latvia,Services,83.5,female
+Lebanon,Services,72,female
+Lesotho,Services,66.4,female
+Liberia,Services,54,female
+Libya,Services,67.1,female
+Lithuania,Services,79.4,female
+Luxembourg,Services,95.5,female
+Madagascar,Services,31.5,female
+Malawi,Services,47.1,female
+Malaysia,Services,74.9,female
+Maldives,Services,77.3,female
+Mali,Services,32.4,female
+Malta,Services,91.2,female
+Mauritania,Services,40.4,female
+Mauritius,Services,79.7,female
+Mexico,Services,79,female
+Mongolia,Services,64,female
+Montenegro,Services,85.1,female
+Morocco,Services,34.3,female
+Mozambique,Services,17.2,female
+Myanmar,Services,41.9,female
+Namibia,Services,72.2,female
+Nepal,Services,17.3,female
+Netherlands,Services,92.7,female
+New Caledonia,Services,92.4,female
+New Zealand,Services,87.5,female
+Nicaragua,Services,80.1,female
+Niger,Services,19.6,female
+Nigeria,Services,63.9,female
+North Macedonia,Services,59.4,female
+Norway,Services,92.3,female
+Oman,Services,95.5,female
+Pakistan,Services,18.6,female
+Panama,Services,82.5,female
+Papua New Guinea,Services,37.5,female
+Paraguay,Services,77.9,female
+Peru,Services,65.9,female
+Philippines,Services,77,female
+Poland,Services,75.1,female
+Portugal,Services,81.4,female
+Puerto Rico,Services,91.8,female
+Qatar,Services,93.6,female
+South Korea,Services,82.3,female
+Moldova,Services,56.1,female
+Romania,Services,57.5,female
+Russian Federation,Services,80.8,female
+Rwanda,Services,26.4,female
+Saint Lucia,Services,81.7,female
+Saint Vincent & Grenadines,Services,88.7,female
+Samoa,Services,60.3,female
+Sao Tome and Principe,Services,88.2,female
+Saudi Arabia,Services,97.6,female
+Senegal,Services,70.3,female
+Serbia,Services,68.3,female
+Sierra Leone,Services,47.3,female
+Singapore,Services,89.3,female
+Slovakia,Services,78.9,female
+Slovenia,Services,75.3,female
+Solomon Islands,Services,58.9,female
+Somalia,Services,11.6,female
+South Africa,Services,85.1,female
+South Sudan,Services,19.5,female
+Spain,Services,89.1,female
+Sri Lanka,Services,45,female
+State of Palestine,Services,84,female
+Sudan,Services,42.2,female
+Suriname,Services,88.9,female
+Sweden,Services,92.3,female
+Switzerland,Services,88.1,female
+Syrian Arab Republic,Services,84.4,female
+Tajikistan,Services,33.2,female
+Thailand,Services,52.2,female
+Timor-Leste,Services,51.9,female
+Togo,Services,51.9,female
+Tonga,Services,46.4,female
+Trinidad and Tobago,Services,86.3,female
+Tunisia,Services,58.1,female
+Turkey,Services,59.2,female
+Turkmenistan,Services,43,female
+Uganda,Services,20,female
+Ukraine,Services,74.5,female
+United Arab Emirates,Services,94.6,female
+United Kingdom,Services,92.2,female
+Tanzania,Services,30,female
+United States of America,Services,90.7,female
+United States Virgin Islands,Services,91.7,female
+Uruguay,Services,88.3,female
+Uzbekistan,Services,58.7,female
+Vanuatu,Services,43.5,female
+Venezuela,Services,91.2,female
+Viet Nam,Services,38.8,female
+Yemen,Services,43.2,female
+Zambia,Services,41.9,female
+Zimbabwe,Services,28.5,female
+Afghanistan,Services,47.1,male
+Albania,Services,43.6,male
+Algeria,Services,57.1,male
+Angola,Services,40.6,male
+Argentina,Services,69.7,male
+Armenia,Services,49.1,male
+Australia,Services,66.7,male
+Austria,Services,59.4,male
+Azerbaijan,Services,46.3,male
+Bahamas,Services,72.4,male
+Bahrain,Services,57.4,male
+Bangladesh,Services,47.2,male
+Barbados,Services,67.9,male
+Belarus,Services,43.9,male
+Belgium,Services,67.4,male
+Belize,Services,56.6,male
+Benin,Services,32.3,male
+Bhutan,Services,39.5,male
+Bolivia,Services,42.9,male
+Bosnia and Herzegovina,Services,43.9,male
+Botswana,Services,50,male
+Brazil,Services,60.7,male
+Brunei,Services,77.1,male
+Bulgaria,Services,54.8,male
+Burkina Faso,Services,35.2,male
+Burundi,Services,9.7,male
+Cabo Verde,Services,53.8,male
+Cambodia,Services,39.5,male
+Cameroon,Services,42.6,male
+Canada,Services,68.7,male
+Central African Republic,Services,18.5,male
+Chad,Services,18.8,male
+Channel Islands,Services,62.3,male
+Chile,Services,57.5,male
+China,Services,42.6,male
+Hong Kong ,Services,80.7,male
+Macao,Services,83.3,male
+Colombia,Services,53.4,male
+Comoros,Services,38.4,male
+Congo,Services,43.1,male
+Costa Rica,Services,58.2,male
+Côte d’Ivoire,Services,38.9,male
+Croatia,Services,55,male
+Cuba,Services,55.4,male
+Cyprus,Services,72.3,male
+Czechia,Services,48.4,male
+North Korea,Services,37.3,male
+Congo,Services,25.9,male
+Denmark,Services,69.7,male
+Djibouti,Services,49.2,male
+Dominican Republic,Services,59.5,male
+Ecuador,Services,45.4,male
+Egypt,Services,46.1,male
+El Salvador,Services,49,male
+Equatorial Guinea,Services,34.2,male
+Eritrea,Services,31.3,male
+Estonia,Services,54.5,male
+Eswatini,Services,61.2,male
+Ethiopia,Services,16.5,male
+Fiji,Services,47.7,male
+Finland,Services,60.6,male
+France,Services,66.9,male
+French Polynesia,Services,69,male
+Gabon,Services,60.8,male
+Gambia,Services,53.1,male
+Georgia,Services,39.4,male
+Germany,Services,60.2,male
+Ghana,Services,44.7,male
+Greece,Services,67.3,male
+Guam,Services,78,male
+Guatemala,Services,38.9,male
+Guinea,Services,29.2,male
+Guinea-Bissau,Services,24.8,male
+Guyana,Services,46.4,male
+Haiti,Services,47.8,male
+Honduras,Services,36.6,male
+Hungary,Services,50.2,male
+Iceland,Services,69.5,male
+India,Services,33.3,male
+Indonesia,Services,44.6,male
+Iran ,Services,51.1,male
+Iraq,Services,58.4,male
+Ireland,Services,65.5,male
+Israel,Services,73.6,male
+Italy,Services,60.4,male
+Jamaica,Services,53.9,male
+Japan,Services,64.1,male
+Jordan,Services,69.9,male
+Kazakhstan,Services,54.2,male
+Kenya,Services,39.3,male
+Kuwait,Services,66.5,male
+Kyrgyzstan,Services,48.1,male
+Laos,Services,24.9,male
+Latvia,Services,55.9,male
+Lebanon,Services,61.9,male
+Lesotho,Services,36.9,male
+Liberia,Services,40.3,male
+Libya,Services,56.1,male
+Lithuania,Services,55.4,male
+Luxembourg,Services,80.7,male
+Madagascar,Services,23,male
+Malawi,Services,39.2,male
+Malaysia,Services,55.8,male
+Maldives,Services,72.5,male
+Mali,Services,28.4,male
+Malta,Services,74,male
+Mauritania,Services,34.4,male
+Mauritius,Services,62.4,male
+Mexico,Services,50.8,male
+Mongolia,Services,44.8,male
+Montenegro,Services,63.6,male
+Morocco,Services,47.1,male
+Mozambique,Services,26.1,male
+Myanmar,Services,31.3,male
+Namibia,Services,51.7,male
+Nepal,Services,23.7,male
+Netherlands,Services,73.2,male
+New Caledonia,Services,65.3,male
+New Zealand,Services,63.9,male
+Nicaragua,Services,37.2,male
+Niger,Services,16.8,male
+Nigeria,Services,44.4,male
+North Macedonia,Services,49.6,male
+Norway,Services,67,male
+Oman,Services,58.5,male
+Pakistan,Services,43.3,male
+Panama,Services,57.5,male
+Papua New Guinea,Services,33.7,male
+Paraguay,Services,51.5,male
+Peru,Services,50.5,male
+Philippines,Services,45.4,male
+Poland,Services,46.2,male
+Portugal,Services,58.7,male
+Puerto Rico,Services,76.9,male
+Qatar,Services,36.6,male
+South Korea,Services,61.4,male
+Moldova,Services,38.9,male
+Romania,Services,41.8,male
+Russian Federation,Services,55.5,male
+Rwanda,Services,32.3,male
+Saint Lucia,Services,51.4,male
+Saint Vincent & Grenadines,Services,55.7,male
+Samoa,Services,40,male
+Sao Tome and Principe,Services,50.5,male
+Saudi Arabia,Services,69.2,male
+Senegal,Services,48.1,male
+Serbia,Services,49.2,male
+Sierra Leone,Services,30.8,male
+Singapore,Services,80.4,male
+Slovakia,Services,47.8,male
+Slovenia,Services,49.6,male
+Solomon Islands,Services,48.2,male
+Somalia,Services,14,male
+South Africa,Services,62.2,male
+South Sudan,Services,39.4,male
+Spain,Services,65,male
+Sri Lanka,Services,46.3,male
+State of Palestine,Services,58.2,male
+Sudan,Services,45.2,male
+Suriname,Services,57.7,male
+Sweden,Services,69.9,male
+Switzerland,Services,67.6,male
+Syrian Arab Republic,Services,59.4,male
+Tajikistan,Services,43.9,male
+Thailand,Services,41.4,male
+Timor-Leste,Services,42,male
+Togo,Services,48,male
+Tonga,Services,47.5,male
+Trinidad and Tobago,Services,58.7,male
+Tunisia,Services,53.7,male
+Turkey,Services,54.4,male
+Turkmenistan,Services,34.3,male
+Uganda,Services,21.8,male
+Ukraine,Services,49,male
+United Arab Emirates,Services,58.2,male
+United Kingdom,Services,71.7,male
+Tanzania,Services,26.8,male
+United States of America,Services,69,male
+United States Virgin Islands,Services,61.9,male
+Uruguay,Services,61.4,male
+Uzbekistan,Services,38.5,male
+Vanuatu,Services,34.6,male
+Venezuela,Services,65.4,male
+Viet Nam,Services,32.3,male
+Yemen,Services,62.7,male
+Zambia,Services,39.6,male
+Zimbabwe,Services,25.8,male
